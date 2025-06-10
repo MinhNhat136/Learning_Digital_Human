@@ -44,11 +44,6 @@ public class DigitalHumanModel
         }
     }
 
-    public IEnumerator UploadInputText(string serverURL, string inputText, Action<bool> onComplete)
-    {
-        yield return null;
-    }
-
     public IEnumerator LoadBlendShapeDataFromApi(string apiUrl)
     {
         using var www = UnityWebRequest.Get(apiUrl);

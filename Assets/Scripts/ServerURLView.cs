@@ -7,6 +7,7 @@ public class ServerURLView : MonoBehaviour
     private TMP_InputField serverUrlInput;
 
     public string SuffixUploadInputVoiceApi;
+    public string SuffixUploadInputTextApi; 
     public string SuffixLoadBlendShapeApi;
     public string SuffixLoadAudioResponseApi;
     public string SuffixLoadDialogueContentApi;

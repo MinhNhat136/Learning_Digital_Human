@@ -2,7 +2,6 @@ using System.Collections;
 using UnityEngine;
 using System;
 using System.IO;
-using NUnit;
 
 public class DigitalHumanPresenter : BaseDigitalHumanPresenter
 {
@@ -43,6 +42,11 @@ public class DigitalHumanPresenter : BaseDigitalHumanPresenter
         }
 
         UpdateBlendShape();
+    }
+
+    public void OnInputChatUploadSuccess()
+    {
+        r_CoroutineManager.StartCoroutine(LoadAllResponseData());
     }
 
     private void StartInputVoiceRecording()

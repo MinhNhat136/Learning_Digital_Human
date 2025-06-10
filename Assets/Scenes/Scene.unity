@@ -1282,6 +1282,7 @@ GameObject:
   - component: {fileID: 953765233}
   - component: {fileID: 953765235}
   - component: {fileID: 953765234}
+  - component: {fileID: 953765236}
   m_Layer: 5
   m_Name: Box_Chat
   m_TagString: Untagged
@@ -1350,6 +1351,22 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 953765232}
   m_CullTransparentMesh: 1
+--- !u!114 &953765236
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 953765232}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1f47facf77f1ee54cb84f7b1b4f60afb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_chatInput: {fileID: 1545672507}
+  m_sendButton: {fileID: 583752642}
+  m_humanView: {fileID: 0}
+  m_boxChatView: {fileID: 0}
 --- !u!1 &1022999574
 GameObject:
   m_ObjectHideFlags: 0
@@ -2223,6 +2240,17 @@ RectTransform:
   m_CorrespondingSourceObject: {fileID: 224121025087394194, guid: 48cd4469f52efb049b60ba44e83da257, type: 3}
   m_PrefabInstance: {fileID: 520611436}
   m_PrefabAsset: {fileID: 0}
+--- !u!114 &1545672507 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 114397009966825276, guid: 48cd4469f52efb049b60ba44e83da257, type: 3}
+  m_PrefabInstance: {fileID: 520611436}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2da0c512f12947e489f739169773d7ca, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1653658329
 GameObject:
   m_ObjectHideFlags: 0
@@ -6944,7 +6972,7 @@ AudioSource:
   m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
-  m_audioClip: {fileID: 8300000, guid: 94bf675b14852b140a58f011b2b3b3da, type: 3}
+  m_audioClip: {fileID: 0}
   m_Resource: {fileID: 8300000, guid: 94bf675b14852b140a58f011b2b3b3da, type: 3}
   m_PlayOnAwake: 0
   m_Volume: 1
@@ -8527,10 +8555,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 97549b27e28a00d42a616a04e9b5a3d8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  SuffixUploadInputVoiceApi: generate
+  SuffixUploadInputVoiceApi: generateFromAudio
+  SuffixUploadInputTextApi: generateFromText
   SuffixLoadBlendShapeApi: blendshape
-  SuffixLoadAudioResponseApi: audioclip
-  SuffixLoadDialogueContentApi: dialoguecontent
+  SuffixLoadAudioResponseApi: audioClip
+  SuffixLoadDialogueContentApi: dialogueContent
   SuffixLoadChatHistory: history
 --- !u!224 &6250432901262631352
 RectTransform:
