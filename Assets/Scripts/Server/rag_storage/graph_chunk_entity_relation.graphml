@@ -1,0 +1,2430 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d11" for="edge" attr.name="created_at" attr.type="long"/>
+<key id="d10" for="edge" attr.name="file_path" attr.type="string"/>
+<key id="d9" for="edge" attr.name="source_id" attr.type="string"/>
+<key id="d8" for="edge" attr.name="keywords" attr.type="string"/>
+<key id="d7" for="edge" attr.name="description" attr.type="string"/>
+<key id="d6" for="edge" attr.name="weight" attr.type="double"/>
+<key id="d5" for="node" attr.name="created_at" attr.type="long"/>
+<key id="d4" for="node" attr.name="file_path" attr.type="string"/>
+<key id="d3" for="node" attr.name="source_id" attr.type="string"/>
+<key id="d2" for="node" attr.name="description" attr.type="string"/>
+<key id="d1" for="node" attr.name="entity_type" attr.type="string"/>
+<key id="d0" for="node" attr.name="entity_id" attr.type="string"/>
+<graph edgedefault="undirected"><node id="Nhà nước">
+  <data key="d0">Nhà nước</data>
+  <data key="d1">organization</data>
+  <data key="d2">Nhà nước là cơ quan quyền lực cao nhất của Việt Nam, đồng thời là đại diện chủ sở hữu về đất đai, có thẩm quyền giao đất, cho thuê đất, công nhận quyền sử dụng đất cho người sử dụng đất. Với vai trò là cơ quan đại diện chủ sở hữu và quản lý đất đai toàn dân, Nhà nước có trách nhiệm quản lý và sử dụng đất theo quy định của pháp luật, quyết định quy hoạch sử dụng đất, mục đích sử dụng đất, và các quyết định khác liên quan đến đất đai. Nhà nước cũng là cơ quan quản lý cao nhất của đất nước, chịu trách nhiệm về việc giao quản lý đất, đảm bảo việc sử dụng đất hiệu quả và hợp lý. Tổng quan, Nhà nước đóng vai trò quan trọng trong việc quản lý, sử dụng và bảo vệ đất đai, nhằm phục vụ lợi ích toàn dân và phát triển bền vững.</data>
+  <data key="d3">chunk-2c36ecaddfd4da25d70ed2760df7e6f1&lt;SEP&gt;chunk-df1cf85b8f6adb27f254ca957d057cb7&lt;SEP&gt;chunk-815c63419768ab291e36f773e4370eb9&lt;SEP&gt;chunk-3d7430474b8c0567cb4969f22ad7777e&lt;SEP&gt;chunk-a04ff08bad380dd4135e8de69ff04a3f&lt;SEP&gt;chunk-9e5a73896d10a18010a7172d714c0f56</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749655983</data>
+</node>
+<node id="Đất đai">
+  <data key="d0">Đất đai</data>
+  <data key="d1">category</data>
+  <data key="d2">Đất đai là một loại tài nguyên thiên nhiên và là đối tượng được quản lý và sử dụng theo Luật này.&lt;SEP&gt;Đất đai là một loại tài nguyên thiên nhiên, được Nhà nước quản lý và quy định các hạn mức sử dụng.&lt;SEP&gt;Đất đai là tài nguyên thiên nhiên, là đối tượng quản lý và sử dụng trong quy định này.&lt;SEP&gt;Đất đai là một tài nguyên quan trọng được đề cập trong văn bản.&lt;SEP&gt;Đất đai là tài nguyên thuộc sở hữu toàn dân, được Nhà nước quản lý và trao quyền sử dụng cho người sử dụng đất.</data>
+  <data key="d3">chunk-84a885a6c8cdb51f06c780070d62ed55&lt;SEP&gt;chunk-14f425d966c49e0fd0eafa96bfab983c&lt;SEP&gt;chunk-3d7430474b8c0567cb4969f22ad7777e&lt;SEP&gt;chunk-a04ff08bad380dd4135e8de69ff04a3f&lt;SEP&gt;chunk-9e5a73896d10a18010a7172d714c0f56</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749655958</data>
+</node>
+<node id="Quy hoạch sử dụng đất">
+  <data key="d0">Quy hoạch sử dụng đất</data>
+  <data key="d1">event</data>
+  <data key="d2">Quy hoạch sử dụng đất là quá trình quyết định mục đích sử dụng đất, được thực hiện bởi Nhà nước.</data>
+  <data key="d3">chunk-3d7430474b8c0567cb4969f22ad7777e</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749655737</data>
+</node>
+<node id="Kế hoạch sử dụng đất">
+  <data key="d0">Kế hoạch sử dụng đất</data>
+  <data key="d1">event</data>
+  <data key="d2">Kế hoạch sử dụng đất là một phần của quy hoạch sử dụng đất, được thực hiện bởi Nhà nước.</data>
+  <data key="d3">chunk-3d7430474b8c0567cb4969f22ad7777e</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749655737</data>
+</node>
+<node id="Người sử dụng đất">
+  <data key="d0">Người sử dụng đất</data>
+  <data key="d1">person</data>
+  <data key="d2">Người sử dụng đất là cá nhân hoặc tổ chức được phép sử dụng đất đai theo quy định của pháp luật.&lt;SEP&gt;Người sử dụng đất là những người được giao đất, cho thuê đất, hoặc công nhận quyền sử dụng đất, có quyền và nghĩa vụ theo quy định của Nhà nước.&lt;SEP&gt;Người sử dụng đất là những cá nhân hoặc tổ chức được Nhà nước trao quyền sử dụng đất theo quy định của Luật này.</data>
+  <data key="d3">chunk-3d7430474b8c0567cb4969f22ad7777e&lt;SEP&gt;chunk-9e5a73896d10a18010a7172d714c0f56&lt;SEP&gt;chunk-14f425d966c49e0fd0eafa96bfab983c</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749655949</data>
+</node>
+<node id="Giao đất">
+  <data key="d0">Giao đất</data>
+  <data key="d1">event</data>
+  <data key="d2">Giao đất là quá trình Nhà nước chuyển quyền sử dụng đất cho người sử dụng đất.</data>
+  <data key="d3">chunk-3d7430474b8c0567cb4969f22ad7777e</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749655737</data>
+</node>
+<node id="Cho thuê đất">
+  <data key="d0">Cho thuê đất</data>
+  <data key="d1">event</data>
+  <data key="d2">Cho thuê đất là quá trình Nhà nước cho người sử dụng đất sử dụng đất trong một thời gian nhất định.</data>
+  <data key="d3">chunk-3d7430474b8c0567cb4969f22ad7777e</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749655737</data>
+</node>
+<node id="Công nhận quyền sử dụng đất">
+  <data key="d0">Công nhận quyền sử dụng đất</data>
+  <data key="d1">event</data>
+  <data key="d2">Công nhận quyền sử dụng đất là quá trình Nhà nước công nhận quyền sử dụng đất của người sử dụng đất.</data>
+  <data key="d3">chunk-3d7430474b8c0567cb4969f22ad7777e</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749655737</data>
+</node>
+<node id="Hạn mức sử dụng đất">
+  <data key="d0">Hạn mức sử dụng đất</data>
+  <data key="d1">category</data>
+  <data key="d2">Hạn mức sử dụng đất là giới hạn về diện tích đất mà người sử dụng đất được phép sử dụng.</data>
+  <data key="d3">chunk-3d7430474b8c0567cb4969f22ad7777e</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749655737</data>
+</node>
+<node id="Hạn mức giao đất nông nghiệp">
+  <data key="d0">Hạn mức giao đất nông nghiệp</data>
+  <data key="d1">category</data>
+  <data key="d2">Hạn mức giao đất nông nghiệp là giới hạn về diện tích đất nông nghiệp mà người sử dụng đất được phép sử dụng.</data>
+  <data key="d3">chunk-3d7430474b8c0567cb4969f22ad7777e</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749655737</data>
+</node>
+<node id="Hạn mức giao đất ở">
+  <data key="d0">Hạn mức giao đất ở</data>
+  <data key="d1">category</data>
+  <data key="d2">Hạn mức giao đất ở là giới hạn về diện tích đất ở mà người sử dụng đất được phép sử dụng.</data>
+  <data key="d3">chunk-3d7430474b8c0567cb4969f22ad7777e</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749655737</data>
+</node>
+<node id="Hạn mức công nhận đất ở">
+  <data key="d0">Hạn mức công nhận đất ở</data>
+  <data key="d1">category</data>
+  <data key="d2">Hạn mức công nhận đất ở là giới hạn về diện tích đất ở mà người sử dụng đất được phép công nhận.</data>
+  <data key="d3">chunk-3d7430474b8c0567cb4969f22ad7777e</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749655737</data>
+</node>
+<node id="Hạn mức nhận chuyển quyền sử dụng đất nông nghiệp">
+  <data key="d0">Hạn mức nhận chuyển quyền sử dụng đất nông nghiệp</data>
+  <data key="d1">category</data>
+  <data key="d2">Hạn mức nhận chuyển quyền sử dụng đất nông nghiệp là giới hạn về diện tích đất nông nghiệp mà người sử dụng đất được phép nhận chuyển.</data>
+  <data key="d3">chunk-3d7430474b8c0567cb4969f22ad7777e</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749655737</data>
+</node>
+<node id="Thời hạn sử dụng đất">
+  <data key="d0">Thời hạn sử dụng đất</data>
+  <data key="d1">category</data>
+  <data key="d2">Thời hạn sử dụng đất là khoảng thời gian mà người sử dụng đất được phép sử dụng đất.</data>
+  <data key="d3">chunk-3d7430474b8c0567cb4969f22ad7777e</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749655737</data>
+</node>
+<node id="Thu hồi đất">
+  <data key="d0">Thu hồi đất</data>
+  <data key="d1">event</data>
+  <data key="d2">Thu hồi đất là quá trình Nhà nước lấy lại đất từ người sử dụng đất.</data>
+  <data key="d3">chunk-3d7430474b8c0567cb4969f22ad7777e</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749655737</data>
+</node>
+<node id="Trưng dụng đất">
+  <data key="d0">Trưng dụng đất</data>
+  <data key="d1">event</data>
+  <data key="d2">Trưng dụng đất là quá trình Nhà nước sử dụng đất cho mục đích công cộng.</data>
+  <data key="d3">chunk-3d7430474b8c0567cb4969f22ad7777e</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749655737</data>
+</node>
+<node id="Giao đất không thu tiền sử dụng đất">
+  <data key="d0">Giao đất không thu tiền sử dụng đất</data>
+  <data key="d1">event</data>
+  <data key="d2">Giao đất không thu tiền sử dụng đất là quá trình Nhà nước giao đất cho người sử dụng đất mà không thu tiền sử dụng đất.</data>
+  <data key="d3">chunk-3d7430474b8c0567cb4969f22ad7777e</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749655737</data>
+</node>
+<node id="Giao đất có thu tiền sử dụng đất">
+  <data key="d0">Giao đất có thu tiền sử dụng đất</data>
+  <data key="d1">event</data>
+  <data key="d2">Giao đất có thu tiền sử dụng đất là quá trình Nhà nước giao đất cho người sử dụng đất và thu tiền sử dụng đất.</data>
+  <data key="d3">chunk-3d7430474b8c0567cb4969f22ad7777e</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749655737</data>
+</node>
+<node id="Cho thuê đất thu tiền thuê đất hằng năm">
+  <data key="d0">Cho thuê đất thu tiền thuê đất hằng năm</data>
+  <data key="d1">event</data>
+  <data key="d2">Cho thuê đất thu tiền thuê đất hằng năm là quá trình Nhà nước cho người sử dụng đất sử dụng đất và thu tiền thuê đất hằng năm.</data>
+  <data key="d3">chunk-3d7430474b8c0567cb4969f22ad7777e</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749655737</data>
+</node>
+<node id="Cho thuê đất thu tiền thuê đất một lần cho cả thời gian thuê">
+  <data key="d0">Cho thuê đất thu tiền thuê đất một lần cho cả thời gian thuê</data>
+  <data key="d1">event</data>
+  <data key="d2">Cho thuê đất thu tiền thuê đất một lần cho cả thời gian thuê là quá trình Nhà nước cho người sử dụng đất sử dụng đất và thu tiền thuê đất một lần cho cả thời gian thuê.</data>
+  <data key="d3">chunk-3d7430474b8c0567cb4969f22ad7777e</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749655737</data>
+</node>
+<node id="Chính phủ">
+  <data key="d0">Chính phủ</data>
+  <data key="d1">organization</data>
+  <data key="d2">Chính phủ là cơ quan nhà nước có thẩm quyền trong việc quy định và quyết định về việc xác định loại đất.&lt;SEP&gt;Chính phủ là cơ quan quyền lực nhà nước cao nhất, có thẩm quyền quy định chi tiết về phân loại đất.</data>
+  <data key="d3">chunk-32fa20132f34131ad8d6a1dbf22a56db&lt;SEP&gt;chunk-b9745fb3c299c9cd92793005e3af002f</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749655900</data>
+</node>
+<node id="Đất nông nghiệp">
+  <data key="d0">Đất nông nghiệp</data>
+  <data key="d1">category</data>
+  <data key="d2">Đất nông nghiệp là loại đất được sử dụng cho mục đích sản xuất nông nghiệp, bao gồm các loại đất như đất trồng cây hằng năm, đất trồng cây lâu năm, đất lâm nghiệp, đất nuôi trồng thủy sản, đất chăn nuôi tập trung, đất làm muối, đất nông nghiệp khác.&lt;SEP&gt;Đất nông nghiệp là loại đất được sử dụng cho mục đích sản xuất nông nghiệp, có trách nhiệm được quản lý và sử dụng theo quy định của pháp luật.</data>
+  <data key="d3">chunk-2c36ecaddfd4da25d70ed2760df7e6f1&lt;SEP&gt;chunk-b9745fb3c299c9cd92793005e3af002f</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749655940</data>
+</node>
+<node id="Đất phi nông nghiệp">
+  <data key="d0">Đất phi nông nghiệp</data>
+  <data key="d1">category</data>
+  <data key="d2">Đất phi nông nghiệp là loại đất được sử dụng cho mục đích khác than sản xuất nông nghiệp, có trách nhiệm được quản lý và sử dụng theo quy định của pháp luật.&lt;SEP&gt;Đất phi nông nghiệp là loại đất được sử dụng cho mục đích phi nông nghiệp, bao gồm các loại đất như đất ở, đất xây dựng trụ sở cơ quan, đất quốc phòng, an ninh, đất xây dựng công trình sự nghiệp, đất sản xuất, kinh doanh phi nông nghiệp, đất sử dụng vào mục đích công cộng, đất tôn giáo, đất tín ngưỡng, đất nghĩa trang, nhà tang lễ, cơ sở hỏa táng, đất có mặt nước chuyên dùng, đất phi nông nghiệp khác.</data>
+  <data key="d3">chunk-2c36ecaddfd4da25d70ed2760df7e6f1&lt;SEP&gt;chunk-b9745fb3c299c9cd92793005e3af002f</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749655940</data>
+</node>
+<node id="Đất chưa sử dụng">
+  <data key="d0">Đất chưa sử dụng</data>
+  <data key="d1">category</data>
+  <data key="d2">Đất chưa sử dụng là đất chưa xác định mục đích sử dụng và chưa giao, chưa cho thuê.</data>
+  <data key="d3">chunk-b9745fb3c299c9cd92793005e3af002f</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749655747</data>
+</node>
+<node id="Việt Nam">
+  <data key="d0">Việt Nam</data>
+  <data key="d1">geo</data>
+  <data key="d2">Việt Nam is the country where the land use and ownership regulations apply.&lt;SEP&gt;Việt Nam là quốc gia nơi có các quy định về phân loại đất.&lt;SEP&gt;Việt Nam là quốc gia nơi người sử dụng đất được giao đất, cho thuê đất, công nhận quyền sử dụng đất.&lt;SEP&gt;Việt Nam là quốc gia nơi diễn ra các hoạt động liên quan đến quyền sử dụng đất.&lt;SEP&gt;Việt Nam là quốc gia có chủ quyền, có trách nhiệm quản lý và sử dụng đất theo quy định của pháp luật.</data>
+  <data key="d3">chunk-84a885a6c8cdb51f06c780070d62ed55&lt;SEP&gt;chunk-2c36ecaddfd4da25d70ed2760df7e6f1&lt;SEP&gt;chunk-b9745fb3c299c9cd92793005e3af002f&lt;SEP&gt;chunk-1d0a130dde5b2a8f28df5fbfd9026e1d&lt;SEP&gt;chunk-815c63419768ab291e36f773e4370eb9</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749655940</data>
+</node>
+<node id="Đất trồng cây hằng năm">
+  <data key="d0">Đất trồng cây hằng năm</data>
+  <data key="d1">category</data>
+  <data key="d2">Đất trồng cây hằng năm là loại đất nông nghiệp, bao gồm đất trồng lúa và đất trồng cây hằng năm khác.</data>
+  <data key="d3">chunk-b9745fb3c299c9cd92793005e3af002f</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749655747</data>
+</node>
+<node id="Đất trồng cây lâu năm">
+  <data key="d0">Đất trồng cây lâu năm</data>
+  <data key="d1">category</data>
+  <data key="d2">Đất trồng cây lâu năm là loại đất nông nghiệp, được sử dụng để trồng cây lâu năm.</data>
+  <data key="d3">chunk-b9745fb3c299c9cd92793005e3af002f</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749655747</data>
+</node>
+<node id="Đất lâm nghiệp">
+  <data key="d0">Đất lâm nghiệp</data>
+  <data key="d1">category</data>
+  <data key="d2">Đất lâm nghiệp là loại đất nông nghiệp, bao gồm đất rừng đặc dụng, đất rừng phòng hộ, đất rừng sản xuất.</data>
+  <data key="d3">chunk-b9745fb3c299c9cd92793005e3af002f</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749655747</data>
+</node>
+<node id="Đất nuôi trồng thủy sản">
+  <data key="d0">Đất nuôi trồng thủy sản</data>
+  <data key="d1">category</data>
+  <data key="d2">Đất nuôi trồng thủy sản là loại đất nông nghiệp, được sử dụng để nuôi trồng thủy sản.</data>
+  <data key="d3">chunk-b9745fb3c299c9cd92793005e3af002f</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749655747</data>
+</node>
+<node id="Đất chăn nuôi tập trung">
+  <data key="d0">Đất chăn nuôi tập trung</data>
+  <data key="d1">category</data>
+  <data key="d2">Đất chăn nuôi tập trung là loại đất nông nghiệp, được sử dụng để chăn nuôi tập trung.</data>
+  <data key="d3">chunk-b9745fb3c299c9cd92793005e3af002f</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749655747</data>
+</node>
+<node id="Đất làm muối">
+  <data key="d0">Đất làm muối</data>
+  <data key="d1">category</data>
+  <data key="d2">Đất làm muối là loại đất nông nghiệp, được sử dụng để sản xuất muối.</data>
+  <data key="d3">chunk-b9745fb3c299c9cd92793005e3af002f</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749655747</data>
+</node>
+<node id="Đất ở">
+  <data key="d0">Đất ở</data>
+  <data key="d1">category</data>
+  <data key="d2">Đất ở là loại đất phi nông nghiệp, bao gồm đất ở tại nông thôn, đất ở tại đô thị.</data>
+  <data key="d3">chunk-b9745fb3c299c9cd92793005e3af002f</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749655747</data>
+</node>
+<node id="Đất xây dựng trụ sở cơ quan">
+  <data key="d0">Đất xây dựng trụ sở cơ quan</data>
+  <data key="d1">category</data>
+  <data key="d2">Đất xây dựng trụ sở cơ quan là loại đất phi nông nghiệp, được sử dụng để xây dựng trụ sở cơ quan.</data>
+  <data key="d3">chunk-b9745fb3c299c9cd92793005e3af002f</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749655747</data>
+</node>
+<node id="Đất quốc phòng, an ninh">
+  <data key="d0">Đất quốc phòng, an ninh</data>
+  <data key="d1">category</data>
+  <data key="d2">Đất quốc phòng, an ninh là loại đất phi nông nghiệp, được sử dụng cho mục đích quốc phòng, an ninh.</data>
+  <data key="d3">chunk-b9745fb3c299c9cd92793005e3af002f</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749655747</data>
+</node>
+<node id="Đất xây dựng công trình sự nghiệp">
+  <data key="d0">Đất xây dựng công trình sự nghiệp</data>
+  <data key="d1">category</data>
+  <data key="d2">Đất xây dựng công trình sự nghiệp là loại đất phi nông nghiệp, bao gồm đất xây dựng cơ sở văn hóa, xã hội, y tế, giáo dục và đào tạo, thể dục, thể thao, khoa học và công nghệ, môi trường, khí tượng thủy văn, ngoại giao và công trình sự nghiệp khác.</data>
+  <data key="d3">chunk-b9745fb3c299c9cd92793005e3af002f</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749655747</data>
+</node>
+<node id="Đất sản xuất, kinh doanh phi nông nghiệp">
+  <data key="d0">Đất sản xuất, kinh doanh phi nông nghiệp</data>
+  <data key="d1">category</data>
+  <data key="d2">Đất sản xuất, kinh doanh phi nông nghiệp là loại đất phi nông nghiệp, bao gồm đất khu công nghiệp, cụm công nghiệp, đất thương mại, dịch vụ, đất cơ sở sản xuất phi nông nghiệp, đất sử dụng cho hoạt động khoáng sản.</data>
+  <data key="d3">chunk-b9745fb3c299c9cd92793005e3af002f</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749655747</data>
+</node>
+<node id="Đất công trình giao thông">
+  <data key="d0">Đất công trình giao thông</data>
+  <data key="d1">category</data>
+  <data key="d2">Đất công trình giao thông là loại đất phi nông nghiệp, được sử dụng để xây dựng công trình giao thông.</data>
+  <data key="d3">chunk-b9745fb3c299c9cd92793005e3af002f</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749655747</data>
+</node>
+<node id="Đất công trình thủy lợi">
+  <data key="d0">Đất công trình thủy lợi</data>
+  <data key="d1">category</data>
+  <data key="d2">Đất công trình thủy lợi là loại đất phi nông nghiệp, được sử dụng để xây dựng công trình thủy lợi.</data>
+  <data key="d3">chunk-b9745fb3c299c9cd92793005e3af002f</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749655747</data>
+</node>
+<node id="Đất công trình cấp nước, thoát nước">
+  <data key="d0">Đất công trình cấp nước, thoát nước</data>
+  <data key="d1">category</data>
+  <data key="d2">Đất công trình cấp nước, thoát nước là loại đất phi nông nghiệp, được sử dụng để xây dựng công trình cấp nước, thoát nước.</data>
+  <data key="d3">chunk-b9745fb3c299c9cd92793005e3af002f</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749655747</data>
+</node>
+<node id="Đất công trình phòng, chống thiên tai">
+  <data key="d0">Đất công trình phòng, chống thiên tai</data>
+  <data key="d1">category</data>
+  <data key="d2">Đất công trình phòng, chống thiên tai là loại đất phi nông nghiệp, được sử dụng để xây dựng công trình phòng, chống thiên tai.</data>
+  <data key="d3">chunk-b9745fb3c299c9cd92793005e3af002f</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749655747</data>
+</node>
+<node id="Đất có di tích lịch sử - văn hóa, danh lam thắng cảnh, di sản thiên nhiên">
+  <data key="d0">Đất có di tích lịch sử - văn hóa, danh lam thắng cảnh, di sản thiên nhiên</data>
+  <data key="d1">category</data>
+  <data key="d2">Đất có di tích lịch sử - văn hóa, danh lam thắng cảnh, di sản thiên nhiên là loại đất phi nông nghiệp, được sử dụng để bảo tồn di tích lịch sử - văn hóa, danh lam thắng cảnh, di sản thiên nhiên.</data>
+  <data key="d3">chunk-b9745fb3c299c9cd92793005e3af002f</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749655747</data>
+</node>
+<node id="Đất công trình xử lý chất thải">
+  <data key="d0">Đất công trình xử lý chất thải</data>
+  <data key="d1">category</data>
+  <data key="d2">Đất công trình xử lý chất thải là loại đất phi nông nghiệp, được sử dụng để xây dựng công trình xử lý chất thải.</data>
+  <data key="d3">chunk-b9745fb3c299c9cd92793005e3af002f</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749655747</data>
+</node>
+<node id="Đất công trình năng lượng, chiếu sáng công cộng">
+  <data key="d0">Đất công trình năng lượng, chiếu sáng công cộng</data>
+  <data key="d1">category</data>
+  <data key="d2">Đất công trình năng lượng, chiếu sáng công cộng là loại đất phi nông nghiệp, được sử dụng để xây dựng công trình năng lượng, chiếu sáng công cộng.</data>
+  <data key="d3">chunk-b9745fb3c299c9cd92793005e3af002f</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749655747</data>
+</node>
+<node id="Đất công trình hạ tầng bưu chính, viễn thông, công nghệ thông tin">
+  <data key="d0">Đất công trình hạ tầng bưu chính, viễn thông, công nghệ thông tin</data>
+  <data key="d1">category</data>
+  <data key="d2">Đất công trình hạ tầng bưu chính, viễn thông, công nghệ thông tin là loại đất phi nông nghiệp, được sử dụng để xây dựng công trình hạ tầng bưu chính, viễn thông, công nghệ thông tin.</data>
+  <data key="d3">chunk-b9745fb3c299c9cd92793005e3af002f</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749655747</data>
+</node>
+<node id="Đất chợ dân sinh, chợ đầu mối">
+  <data key="d0">Đất chợ dân sinh, chợ đầu mối</data>
+  <data key="d1">category</data>
+  <data key="d2">Đất chợ dân sinh, chợ đầu mối là loại đất phi nông nghiệp, được sử dụng để xây dựng chợ dân sinh, chợ đầu mối.</data>
+  <data key="d3">chunk-b9745fb3c299c9cd92793005e3af002f</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749655747</data>
+</node>
+<node id="Đất khu vui chơi, giải trí công cộng, sinh hoạt cộng đồng">
+  <data key="d0">Đất khu vui chơi, giải trí công cộng, sinh hoạt cộng đồng</data>
+  <data key="d1">category</data>
+  <data key="d2">Đất khu vui chơi, giải trí công cộng, sinh hoạt cộng đồng là loại đất phi nông nghiệp, được sử dụng để xây dựng khu vui chơi, giải trí công cộng, sinh hoạt cộng đồng.</data>
+  <data key="d3">chunk-b9745fb3c299c9cd92793005e3af002f</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749655747</data>
+</node>
+<node id="Đất tôn giáo">
+  <data key="d0">Đất tôn giáo</data>
+  <data key="d1">category</data>
+  <data key="d2">Đất tôn giáo là loại đất phi nông nghiệp, được sử dụng cho hoạt động tôn giáo.</data>
+  <data key="d3">chunk-b9745fb3c299c9cd92793005e3af002f</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749655747</data>
+</node>
+<node id="Đất tín ngưỡng">
+  <data key="d0">Đất tín ngưỡng</data>
+  <data key="d1">category</data>
+  <data key="d2">Đất tín ngưỡng là loại đất phi nông nghiệp, được sử dụng cho hoạt động tín ngưỡng.</data>
+  <data key="d3">chunk-b9745fb3c299c9cd92793005e3af002f</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749655747</data>
+</node>
+<node id="Đất nghĩa trang, nhà tang lễ, cơ sở hỏa táng">
+  <data key="d0">Đất nghĩa trang, nhà tang lễ, cơ sở hỏa táng</data>
+  <data key="d1">category</data>
+  <data key="d2">Đất nghĩa trang, nhà tang lễ, cơ sở hỏa táng là loại đất phi nông nghiệp, được sử dụng để xây dựng nghĩa trang, nhà tang lễ, cơ sở hỏa táng.</data>
+  <data key="d3">chunk-b9745fb3c299c9cd92793005e3af002f</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749655747</data>
+</node>
+<node id="Đất có mặt nước chuyên dùng">
+  <data key="d0">Đất có mặt nước chuyên dùng</data>
+  <data key="d1">category</data>
+  <data key="d2">Đất có mặt nước chuyên dùng là loại đất phi nông nghiệp, được sử dụng để xây dựng công trình có mặt nước chuyên dùng.</data>
+  <data key="d3">chunk-b9745fb3c299c9cd92793005e3af002f</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749655747</data>
+</node>
+<node id="Cơ quan nhà nước">
+  <data key="d0">Cơ quan nhà nước</data>
+  <data key="d1">organization</data>
+  <data key="d2">Cơ quan nhà nước là một trong những tổ chức trong nước được giao đất, cho thuê đất, công nhận quyền sử dụng đất.&lt;SEP&gt;Cơ quan nhà nước là tổ chức thực hiện quyền hạn và trách nhiệm đại diện chủ sở hữu toàn dân về đất đai, quản lý nhà nước về đất đai.</data>
+  <data key="d3">chunk-14f425d966c49e0fd0eafa96bfab983c&lt;SEP&gt;chunk-815c63419768ab291e36f773e4370eb9</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749655865</data>
+</node>
+<node id="Quản lý nhà nước về đất đai">
+  <data key="d0">Quản lý nhà nước về đất đai</data>
+  <data key="d1">event</data>
+  <data key="d2">Quản lý nhà nước về đất đai là hoạt động của cơ quan nhà nước trong việc thống nhất quản lý và sử dụng đất đai.</data>
+  <data key="d3">chunk-14f425d966c49e0fd0eafa96bfab983c</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749655843</data>
+</node>
+<node id="Chủ sở hữu toàn dân">
+  <data key="d0">Chủ sở hữu toàn dân</data>
+  <data key="d1">category</data>
+  <data key="d2">Chủ sở hữu toàn dân là khái niệm chỉ quyền sở hữu và quản lý đất đai thuộc về toàn dân, được đại diện bởi cơ quan nhà nước.</data>
+  <data key="d3">chunk-14f425d966c49e0fd0eafa96bfab983c</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749655843</data>
+</node>
+<node id="Pháp luật">
+  <data key="d0">Pháp luật</data>
+  <data key="d1">category</data>
+  <data key="d2">Pháp luật là hệ thống quy định và luật lệ điều chỉnh việc quản lý và sử dụng đất đai.&lt;SEP&gt;Pháp luật là hệ thống quy định và quy tắc được áp dụng để quản lý và điều chỉnh các hoạt động của xã hội.</data>
+  <data key="d3">chunk-14f425d966c49e0fd0eafa96bfab983c&lt;SEP&gt;chunk-df1cf85b8f6adb27f254ca957d057cb7</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749655983</data>
+</node>
+<node id="Toàn dân">
+  <data key="d0">Toàn dân</data>
+  <data key="d1">person</data>
+  <data key="d2">Toàn dân là khái niệm chỉ cộng đồng người dân trong một quốc gia, có quyền sở hữu và quản lý đất đai.&lt;SEP&gt;Toàn dân là những người có quyền và lợi ích liên quan đến đất đai.</data>
+  <data key="d3">chunk-a04ff08bad380dd4135e8de69ff04a3f&lt;SEP&gt;chunk-14f425d966c49e0fd0eafa96bfab983c</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749655958</data>
+</node>
+<node id="Quy định">
+  <data key="d0">Quy định</data>
+  <data key="d1">category</data>
+  <data key="d2">Quy định là các luật lệ và quy tắc cụ thể điều chỉnh việc quản lý và sử dụng đất đai.</data>
+  <data key="d3">chunk-14f425d966c49e0fd0eafa96bfab983c</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749655843</data>
+</node>
+<node id="Điều 2">
+  <data key="d0">Điều 2</data>
+  <data key="d1">category</data>
+  <data key="d2">Điều 2 là một phần của quy định pháp luật về đất đai, quy định về đối tượng áp dụng.</data>
+  <data key="d3">chunk-14f425d966c49e0fd0eafa96bfab983c</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749655843</data>
+</node>
+<node id="Đối tượng khác">
+  <data key="d0">Đối tượng khác</data>
+  <data key="d1">category</data>
+  <data key="d2">Đối tượng khác là các tổ chức hoặc cá nhân có liên quan đến việc quản lý và sử dụng đất đai, nhưng không phải là cơ quan nhà nước hoặc người sử dụng đất.</data>
+  <data key="d3">chunk-14f425d966c49e0fd0eafa96bfab983c</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749655843</data>
+</node>
+<node id="Đảng Cộng sản Việt Nam">
+  <data key="d0">Đảng Cộng sản Việt Nam</data>
+  <data key="d1">organization</data>
+  <data key="d2">Đảng Cộng sản Việt Nam là một tổ chức chính trị được giao đất, cho thuê đất, công nhận quyền sử dụng đất.</data>
+  <data key="d3">chunk-815c63419768ab291e36f773e4370eb9</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749655865</data>
+</node>
+<node id="Mặt trận Tổ quốc Việt Nam">
+  <data key="d0">Mặt trận Tổ quốc Việt Nam</data>
+  <data key="d1">organization</data>
+  <data key="d2">Mặt trận Tổ quốc Việt Nam là một tổ chức chính trị - xã hội được giao đất, cho thuê đất, công nhận quyền sử dụng đất.</data>
+  <data key="d3">chunk-815c63419768ab291e36f773e4370eb9</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749655865</data>
+</node>
+<node id="Tổ chức kinh tế">
+  <data key="d0">Tổ chức kinh tế</data>
+  <data key="d1">organization</data>
+  <data key="d2">Tổ chức kinh tế là một trong những tổ chức trong nước được giao đất, cho thuê đất, công nhận quyền sử dụng đất.&lt;SEP&gt;Tổ chức kinh tế là đơn vị được giao quản lý đất để thực hiện dự án đầu tư.</data>
+  <data key="d3">chunk-df1cf85b8f6adb27f254ca957d057cb7&lt;SEP&gt;chunk-815c63419768ab291e36f773e4370eb9</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749655983</data>
+</node>
+<node id="Tổ chức tôn giáo">
+  <data key="d0">Tổ chức tôn giáo</data>
+  <data key="d1">organization</data>
+  <data key="d2">Tổ chức tôn giáo là một trong những tổ chức được giao đất, cho thuê đất, công nhận quyền sử dụng đất.</data>
+  <data key="d3">chunk-815c63419768ab291e36f773e4370eb9</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749655865</data>
+</node>
+<node id="Cá nhân">
+  <data key="d0">Cá nhân</data>
+  <data key="d1">person</data>
+  <data key="d2">Cá nhân là người sử dụng đất được Nhà nước giao đất, cho thuê đất, công nhận quyền sử dụng đất.&lt;SEP&gt;Cá nhân là thành viên của cộng đồng dân cư, có quyền sử dụng đất chung.</data>
+  <data key="d3">chunk-7927a9a5c3f169a5b89438b2254e90b6&lt;SEP&gt;chunk-815c63419768ab291e36f773e4370eb9</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749655880</data>
+</node>
+<node id="Cộng đồng dân cư">
+  <data key="d0">Cộng đồng dân cư</data>
+  <data key="d1">organization</data>
+  <data key="d2">Cộng đồng dân cư là một trong những đối tượng được giao đất, cho thuê đất, công nhận quyền sử dụng đất.&lt;SEP&gt;Cộng đồng dân cư là tập hợp các cá nhân, hộ gia đình sống trong một khu vực địa lý nhất định, có quyền sử dụng đất chung.&lt;SEP&gt;Cộng đồng dân cư là tập hợp các cá nhân sống và hoạt động trong một khu vực nhất định, có trách nhiệm quản lý và sử dụng đất theo quy định của pháp luật.&lt;SEP&gt;Cộng đồng dân cư là đơn vị được giao quản lý đất cho mục đích công cộng.</data>
+  <data key="d3">chunk-2c36ecaddfd4da25d70ed2760df7e6f1&lt;SEP&gt;chunk-7927a9a5c3f169a5b89438b2254e90b6&lt;SEP&gt;chunk-df1cf85b8f6adb27f254ca957d057cb7&lt;SEP&gt;chunk-815c63419768ab291e36f773e4370eb9</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749655983</data>
+</node>
+<node id="Luật Đầu tư">
+  <data key="d0">Luật Đầu tư</data>
+  <data key="d1">event</data>
+  <data key="d2">Luật Đầu tư là văn bản pháp luật quy định về tổ chức kinh tế.</data>
+  <data key="d3">chunk-815c63419768ab291e36f773e4370eb9</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749655865</data>
+</node>
+<node id="Giấy chứng nhận quyền sử dụng đất">
+  <data key="d0">Giấy chứng nhận quyền sử dụng đất</data>
+  <data key="d1">category</data>
+  <data key="d2">Giấy chứng nhận quyền sử dụng đất là giấy tờ chứng minh quyền sử dụng đất của người sử dụng đất.&lt;SEP&gt;Giấy chứng nhận quyền sử dụng đất là một loại giấy tờ quan trọng trong quá trình thực hiện chính sách đất đai.&lt;SEP&gt;Giấy chứng nhận quyền sử dụng đất là giấy tờ pháp lý chứng minh quyền sử dụng đất của một cá nhân hoặc tổ chức.</data>
+  <data key="d3">chunk-32fa20132f34131ad8d6a1dbf22a56db&lt;SEP&gt;chunk-84a885a6c8cdb51f06c780070d62ed55&lt;SEP&gt;chunk-815c63419768ab291e36f773e4370eb9</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749655900</data>
+</node>
+<node id="Giấy chứng nhận quyền sở hữu nhà ở và quyền sử dụng đất ở">
+  <data key="d0">Giấy chứng nhận quyền sở hữu nhà ở và quyền sử dụng đất ở</data>
+  <data key="d1">category</data>
+  <data key="d2">Giấy chứng nhận quyền sở hữu nhà ở và quyền sử dụng đất ở là giấy tờ chứng minh quyền sở hữu nhà ở và quyền sử dụng đất ở của người sử dụng đất.</data>
+  <data key="d3">chunk-815c63419768ab291e36f773e4370eb9</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749655865</data>
+</node>
+<node id="Giấy chứng nhận quyền sử dụng đất, quyền sở hữu nhà ở và tài sản khác gắn liền với đất">
+  <data key="d0">Giấy chứng nhận quyền sử dụng đất, quyền sở hữu nhà ở và tài sản khác gắn liền với đất</data>
+  <data key="d1">category</data>
+  <data key="d2">Giấy chứng nhận quyền sử dụng đất, quyền sở hữu nhà ở và tài sản khác gắn liền với đất là giấy tờ chứng minh quyền sử dụng đất, quyền sở hữu nhà ở và tài sản khác gắn liền với đất của người sử dụng đất.</data>
+  <data key="d3">chunk-815c63419768ab291e36f773e4370eb9</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749655865</data>
+</node>
+<node id="Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất">
+  <data key="d0">Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất</data>
+  <data key="d1">category</data>
+  <data key="d2">Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất là giấy tờ chứng minh quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất của người sử dụng đất.&lt;SEP&gt;Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất là loại giấy tờ pháp lý xác nhận quyền sử dụng đất và sở hữu tài sản trên đất.</data>
+  <data key="d3">chunk-7927a9a5c3f169a5b89438b2254e90b6&lt;SEP&gt;chunk-815c63419768ab291e36f773e4370eb9</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749655880</data>
+</node>
+<node id="Người Việt Nam định cư ở nước ngoài">
+  <data key="d0">Người Việt Nam định cư ở nước ngoài</data>
+  <data key="d1">person</data>
+  <data key="d2">Người Việt Nam định cư ở nước ngoài là công dân Việt Nam sống ở nước ngoài.</data>
+  <data key="d3">chunk-815c63419768ab291e36f773e4370eb9</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749655865</data>
+</node>
+<node id="Người gốc Việt Nam định cư ở nước ngoài">
+  <data key="d0">Người gốc Việt Nam định cư ở nước ngoài</data>
+  <data key="d1">person</data>
+  <data key="d2">Người gốc Việt Nam định cư ở nước ngoài là người có gốc gác Việt Nam sống ở nước ngoài.</data>
+  <data key="d3">chunk-815c63419768ab291e36f773e4370eb9</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749655865</data>
+</node>
+<node id="Tổ chức nước ngoài có chức năng ngoại giao">
+  <data key="d0">Tổ chức nước ngoài có chức năng ngoại giao</data>
+  <data key="d1">organization</data>
+  <data key="d2">Tổ chức nước ngoài có chức năng ngoại giao là các tổ chức được thành lập và hoạt động tại Việt Nam, có chức năng ngoại giao, có trách nhiệm sử dụng đất theo quy định của pháp luật.&lt;SEP&gt;Tổ chức nước ngoài có chức năng ngoại giao là tổ chức của nước ngoài có chức năng ngoại giao tại Việt Nam.</data>
+  <data key="d3">chunk-2c36ecaddfd4da25d70ed2760df7e6f1&lt;SEP&gt;chunk-815c63419768ab291e36f773e4370eb9</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749655940</data>
+</node>
+<node id="Cơ quan đại diện ngoại giao">
+  <data key="d0">Cơ quan đại diện ngoại giao</data>
+  <data key="d1">organization</data>
+  <data key="d2">Cơ quan đại diện ngoại giao là cơ quan đại diện của nước ngoài tại Việt Nam.</data>
+  <data key="d3">chunk-815c63419768ab291e36f773e4370eb9</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749655865</data>
+</node>
+<node id="Cơ quan lãnh sự">
+  <data key="d0">Cơ quan lãnh sự</data>
+  <data key="d1">organization</data>
+  <data key="d2">Cơ quan lãnh sự là cơ quan lãnh sự của nước ngoài tại Việt Nam.</data>
+  <data key="d3">chunk-815c63419768ab291e36f773e4370eb9</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749655865</data>
+</node>
+<node id="Cơ quan đại diện khác của nước ngoài có chức năng ngoại giao">
+  <data key="d0">Cơ quan đại diện khác của nước ngoài có chức năng ngoại giao</data>
+  <data key="d1">organization</data>
+  <data key="d2">Cơ quan đại diện khác của nước ngoài có chức năng ngoại giao là cơ quan đại diện khác của nước ngoài có chức năng ngoại giao tại Việt Nam.</data>
+  <data key="d3">chunk-815c63419768ab291e36f773e4370eb9</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749655865</data>
+</node>
+<node id="Cơ quan đại diện của tổ chức thuộc Liên hợp quốc">
+  <data key="d0">Cơ quan đại diện của tổ chức thuộc Liên hợp quốc</data>
+  <data key="d1">organization</data>
+  <data key="d2">Cơ quan đại diện của tổ chức thuộc Liên hợp quốc là cơ quan đại diện của tổ chức thuộc Liên hợp quốc tại Việt Nam.</data>
+  <data key="d3">chunk-815c63419768ab291e36f773e4370eb9</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749655865</data>
+</node>
+<node id="Cơ quan hoặc tổ chức liên chính phủ">
+  <data key="d0">Cơ quan hoặc tổ chức liên chính phủ</data>
+  <data key="d1">organization</data>
+  <data key="d2">Cơ quan hoặc tổ chức liên chính phủ là cơ quan hoặc tổ chức liên chính phủ hoạt động tại Việt Nam.</data>
+  <data key="d3">chunk-815c63419768ab291e36f773e4370eb9</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749655865</data>
+</node>
+<node id="Tổ chức kinh tế có vốn đầu tư nước ngoài">
+  <data key="d0">Tổ chức kinh tế có vốn đầu tư nước ngoài</data>
+  <data key="d1">organization</data>
+  <data key="d2">Tổ chức kinh tế có vốn đầu tư nước ngoài là các tổ chức kinh tế được thành lập và hoạt động tại Việt Nam, có vốn đầu tư từ nước ngoài, có trách nhiệm sử dụng đất theo quy định của pháp luật.&lt;SEP&gt;Tổ chức kinh tế có vốn đầu tư nước ngoài là tổ chức kinh tế có vốn đầu tư từ nước ngoài.</data>
+  <data key="d3">chunk-2c36ecaddfd4da25d70ed2760df7e6f1&lt;SEP&gt;chunk-815c63419768ab291e36f773e4370eb9</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749655940</data>
+</node>
+<node id="Nhà nước Việt Nam dân chủ Cộng hòa">
+  <data key="d0">Nhà nước Việt Nam dân chủ Cộng hòa</data>
+  <data key="d1">organization</data>
+  <data key="d2">Nhà nước Việt Nam dân chủ Cộng hòa là một chính quyền đã cấp giấy tờ về quyền sử dụng đất trong quá trình thực hiện chính sách đất đai.</data>
+  <data key="d3">chunk-84a885a6c8cdb51f06c780070d62ed55</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749655880</data>
+</node>
+<node id="Chính phủ Cách mạng lâm thời Cộng hòa miền Nam Việt Nam">
+  <data key="d0">Chính phủ Cách mạng lâm thời Cộng hòa miền Nam Việt Nam</data>
+  <data key="d1">organization</data>
+  <data key="d2">Chính phủ Cách mạng lâm thời Cộng hòa miền Nam Việt Nam là một chính quyền đã cấp giấy tờ về quyền sử dụng đất trong quá trình thực hiện chính sách đất đai.</data>
+  <data key="d3">chunk-84a885a6c8cdb51f06c780070d62ed55</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749655880</data>
+</node>
+<node id="Nhà nước Cộng hòa xã hội chủ nghĩa Việt Nam">
+  <data key="d0">Nhà nước Cộng hòa xã hội chủ nghĩa Việt Nam</data>
+  <data key="d1">organization</data>
+  <data key="d2">Nhà nước Cộng hòa xã hội chủ nghĩa Việt Nam là một chính quyền đã cấp giấy tờ về quyền sử dụng đất trong quá trình thực hiện chính sách đất đai.</data>
+  <data key="d3">chunk-84a885a6c8cdb51f06c780070d62ed55</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749655880</data>
+</node>
+<node id="Tòa án thuộc chế độ cũ">
+  <data key="d0">Tòa án thuộc chế độ cũ</data>
+  <data key="d1">organization</data>
+  <data key="d2">Tòa án thuộc chế độ cũ là một cơ quan đã cấp bản án về quyền sử dụng đất.</data>
+  <data key="d3">chunk-84a885a6c8cdb51f06c780070d62ed55</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749655880</data>
+</node>
+<node id="Ủy ban nhân dân cấp xã">
+  <data key="d0">Ủy ban nhân dân cấp xã</data>
+  <data key="d1">organization</data>
+  <data key="d2">Ủy ban nhân dân cấp xã là cơ quan hành chính cấp xã, có trách nhiệm xác nhận giấy tờ về đất sử dụng chung cho cộng đồng dân cư.&lt;SEP&gt;Ủy ban nhân dân cấp xã là một cơ quan có thẩm quyền xác nhận giấy tờ về quyền sử dụng đất.&lt;SEP&gt;Ủy ban nhân dân cấp xã là cơ quan hành chính nhà nước ở cấp xã, có trách nhiệm quản lý và sử dụng đất nông nghiệp và đất phi nông nghiệp cho mục đích công ích.&lt;SEP&gt;Ủy ban nhân dân cấp xã là cơ quan quản lý địa phương, chịu trách nhiệm về việc quản lý đất sử dụng vào mục đích công cộng.</data>
+  <data key="d3">chunk-2c36ecaddfd4da25d70ed2760df7e6f1&lt;SEP&gt;chunk-7927a9a5c3f169a5b89438b2254e90b6&lt;SEP&gt;chunk-84a885a6c8cdb51f06c780070d62ed55&lt;SEP&gt;chunk-df1cf85b8f6adb27f254ca957d057cb7</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749655983</data>
+</node>
+<node id="Ủy ban nhân dân cấp huyện">
+  <data key="d0">Ủy ban nhân dân cấp huyện</data>
+  <data key="d1">organization</data>
+  <data key="d2">Ủy ban nhân dân cấp huyện là cơ quan quản lý địa phương, chịu trách nhiệm về việc quản lý đất chưa giao, đất chưa cho thuê tại địa phương.&lt;SEP&gt;Ủy ban nhân dân cấp huyện là một cơ quan có thẩm quyền xác nhận giấy tờ về quyền sử dụng đất.</data>
+  <data key="d3">chunk-84a885a6c8cdb51f06c780070d62ed55&lt;SEP&gt;chunk-df1cf85b8f6adb27f254ca957d057cb7</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749655983</data>
+</node>
+<node id="Ủy ban nhân dân cấp tỉnh">
+  <data key="d0">Ủy ban nhân dân cấp tỉnh</data>
+  <data key="d1">organization</data>
+  <data key="d2">Ủy ban nhân dân cấp tỉnh là cơ quan quản lý địa phương, chịu trách nhiệm về việc quản lý đất chưa sử dụng tại các đảo chưa giao cho đơn vị hành chính cấp huyện, cấp xã quản lý.&lt;SEP&gt;Ủy ban nhân dân cấp tỉnh là một cơ quan có thẩm quyền xác nhận giấy tờ về quyền sử dụng đất.</data>
+  <data key="d3">chunk-84a885a6c8cdb51f06c780070d62ed55&lt;SEP&gt;chunk-df1cf85b8f6adb27f254ca957d057cb7</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749655983</data>
+</node>
+<node id="Cơ quan thuộc chế độ cũ">
+  <data key="d0">Cơ quan thuộc chế độ cũ</data>
+  <data key="d1">organization</data>
+  <data key="d2">Cơ quan thuộc chế độ cũ là một cơ quan đã cấp giấy tờ về quyền sử dụng đất.</data>
+  <data key="d3">chunk-84a885a6c8cdb51f06c780070d62ed55</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749655880</data>
+</node>
+<node id="Thủ tướng Chính phủ">
+  <data key="d0">Thủ tướng Chính phủ</data>
+  <data key="d1">person</data>
+  <data key="d2">Thủ tướng Chính phủ là người đã ban hành Chỉ thị số 299/TTg về công tác đo đạc, phân hạng và đăng ký ruộng đất.</data>
+  <data key="d3">chunk-84a885a6c8cdb51f06c780070d62ed55</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749655880</data>
+</node>
+<node id="Bộ trưởng Bộ Quốc phòng">
+  <data key="d0">Bộ trưởng Bộ Quốc phòng</data>
+  <data key="d1">person</data>
+  <data key="d2">Bộ trưởng Bộ Quốc phòng là người đã ban hành Chỉ thị số 282/CT-QP về việc giao đất cho cán bộ, chiến sĩ làm nhà ở.</data>
+  <data key="d3">chunk-84a885a6c8cdb51f06c780070d62ed55</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749655880</data>
+</node>
+<node id="Chỉ thị số 299/TTg">
+  <data key="d0">Chỉ thị số 299/TTg</data>
+  <data key="d1">event</data>
+  <data key="d2">Chỉ thị số 299/TTg là một sự kiện quan trọng liên quan đến công tác đo đạc, phân hạng và đăng ký ruộng đất.</data>
+  <data key="d3">chunk-84a885a6c8cdb51f06c780070d62ed55</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749655880</data>
+</node>
+<node id="Chỉ thị số 282/CT-QP">
+  <data key="d0">Chỉ thị số 282/CT-QP</data>
+  <data key="d1">event</data>
+  <data key="d2">Chỉ thị số 282/CT-QP là một sự kiện quan trọng liên quan đến việc giao đất cho cán bộ, chiến sĩ làm nhà ở.</data>
+  <data key="d3">chunk-84a885a6c8cdb51f06c780070d62ed55</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749655880</data>
+</node>
+<node id="Hộ gia đình">
+  <data key="d0">Hộ gia đình</data>
+  <data key="d1">organization</data>
+  <data key="d2">Hộ gia đình là một đơn vị được đề cập trong văn bản liên quan đến quyền sử dụng đất.&lt;SEP&gt;Hộ gia đình là đơn vị gia đình sống trong một khu vực địa lý nhất định, có quyền sử dụng đất chung.</data>
+  <data key="d3">chunk-7927a9a5c3f169a5b89438b2254e90b6&lt;SEP&gt;chunk-84a885a6c8cdb51f06c780070d62ed55</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749655880</data>
+</node>
+<node id="Cán bộ, chiến sĩ">
+  <data key="d0">Cán bộ, chiến sĩ</data>
+  <data key="d1">organization</data>
+  <data key="d2">Cán bộ, chiến sĩ là những người được giao đất để làm nhà ở theo Chỉ thị số 282/CT-QP.</data>
+  <data key="d3">chunk-84a885a6c8cdb51f06c780070d62ed55</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749655880</data>
+</node>
+<node id="Khu kinh tế mới">
+  <data key="d0">Khu kinh tế mới</data>
+  <data key="d1">geo</data>
+  <data key="d2">Khu kinh tế mới là một khu vực được đề cập trong văn bản liên quan đến việc di dân tái định cư.</data>
+  <data key="d3">chunk-84a885a6c8cdb51f06c780070d62ed55</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749655880</data>
+</node>
+<node id="Bằng khoán điền thổ">
+  <data key="d0">Bằng khoán điền thổ</data>
+  <data key="d1">category</data>
+  <data key="d2">Bằng khoán điền thổ là một loại giấy tờ được đề cập trong văn bản.</data>
+  <data key="d3">chunk-84a885a6c8cdb51f06c780070d62ed55</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749655880</data>
+</node>
+<node id="Văn tự đoạn mãi bất động sản">
+  <data key="d0">Văn tự đoạn mãi bất động sản</data>
+  <data key="d1">category</data>
+  <data key="d2">Văn tự đoạn mãi bất động sản là một loại giấy tờ được đề cập trong văn bản.</data>
+  <data key="d3">chunk-84a885a6c8cdb51f06c780070d62ed55</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749655880</data>
+</node>
+<node id="Văn tự mua bán nhà ở">
+  <data key="d0">Văn tự mua bán nhà ở</data>
+  <data key="d1">category</data>
+  <data key="d2">Văn tự mua bán nhà ở là một loại giấy tờ được đề cập trong văn bản.</data>
+  <data key="d3">chunk-84a885a6c8cdb51f06c780070d62ed55</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749655880</data>
+</node>
+<node id="Giấy phép cho xây cất nhà ở">
+  <data key="d0">Giấy phép cho xây cất nhà ở</data>
+  <data key="d1">category</data>
+  <data key="d2">Giấy phép cho xây cất nhà ở là một loại giấy tờ được đề cập trong văn bản.</data>
+  <data key="d3">chunk-84a885a6c8cdb51f06c780070d62ed55</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749655880</data>
+</node>
+<node id="Sổ đăng ký ruộng đất">
+  <data key="d0">Sổ đăng ký ruộng đất</data>
+  <data key="d1">category</data>
+  <data key="d2">Sổ đăng ký ruộng đất là một loại giấy tờ được đề cập trong văn bản.</data>
+  <data key="d3">chunk-84a885a6c8cdb51f06c780070d62ed55</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749655880</data>
+</node>
+<node id="Sổ địa chính">
+  <data key="d0">Sổ địa chính</data>
+  <data key="d1">category</data>
+  <data key="d2">Sổ địa chính là một loại giấy tờ được đề cập trong văn bản.</data>
+  <data key="d3">chunk-84a885a6c8cdb51f06c780070d62ed55</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749655880</data>
+</node>
+<node id="Ủy Ban Nhân Dân">
+  <data key="d0">Ủy Ban Nhân Dân</data>
+  <data key="d1">organization</data>
+  <data key="d2">Ủy Ban Nhân Dân is a government agency responsible for managing and regulating land use in Vietnam.</data>
+  <data key="d3">chunk-1d0a130dde5b2a8f28df5fbfd9026e1d</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749655880</data>
+</node>
+<node id="Cán Bộ, Công Nhân Viên">
+  <data key="d0">Cán Bộ, Công Nhân Viên</data>
+  <data key="d1">person</data>
+  <data key="d2">Cán Bộ, Công Nhân Viên are individuals who work for the government or private companies and may be eligible for land allocation.</data>
+  <data key="d3">chunk-1d0a130dde5b2a8f28df5fbfd9026e1d</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749655880</data>
+</node>
+<node id="Nông, Lâm Trường Quốc Doanh">
+  <data key="d0">Nông, Lâm Trường Quốc Doanh</data>
+  <data key="d1">organization</data>
+  <data key="d2">Nông, Lâm Trường Quốc Doanh is a state-owned agricultural and forestry enterprise that manages land and resources.</data>
+  <data key="d3">chunk-1d0a130dde5b2a8f28df5fbfd9026e1d</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749655880</data>
+</node>
+<node id="Tòa Án">
+  <data key="d0">Tòa Án</data>
+  <data key="d1">organization</data>
+  <data key="d2">Tòa Án is a court of law that resolves disputes and makes decisions related to land use and ownership.</data>
+  <data key="d3">chunk-1d0a130dde5b2a8f28df5fbfd9026e1d</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749655880</data>
+</node>
+<node id="Cơ Quan Thi Hành Án">
+  <data key="d0">Cơ Quan Thi Hành Án</data>
+  <data key="d1">organization</data>
+  <data key="d2">Cơ Quan Thi Hành Án is a government agency responsible for enforcing court decisions and resolving disputes related to land use.</data>
+  <data key="d3">chunk-1d0a130dde5b2a8f28df5fbfd9026e1d</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749655880</data>
+</node>
+<node id="Trọng Tài Thương Mại Việt Nam">
+  <data key="d0">Trọng Tài Thương Mại Việt Nam</data>
+  <data key="d1">organization</data>
+  <data key="d2">Trọng Tài Thương Mại Việt Nam is a commercial arbitration organization that resolves disputes related to trade and commerce.</data>
+  <data key="d3">chunk-1d0a130dde5b2a8f28df5fbfd9026e1d</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749655880</data>
+</node>
+<node id="Luật Đất Đai">
+  <data key="d0">Luật Đất Đai</data>
+  <data key="d1">organization</data>
+  <data key="d2">Luật Đất Đai is a law that regulates land use and ownership in Vietnam.&lt;SEP&gt;Luật Đất Đai là một tổ chức hoặc một bộ luật quy định về việc sử dụng đất đai.</data>
+  <data key="d3">chunk-1d0a130dde5b2a8f28df5fbfd9026e1d&lt;SEP&gt;chunk-0af8c1d084adb05c320cf722f9de8fd6</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749655926</data>
+</node>
+<node id="Giấy Chứng Nhận Quyền Sử Dụng Đất">
+  <data key="d0">Giấy Chứng Nhận Quyền Sử Dụng Đất</data>
+  <data key="d1">category</data>
+  <data key="d2">Giấy Chứng Nhận Quyền Sử Dụng Đất is a type of document that certifies land use rights.</data>
+  <data key="d3">chunk-1d0a130dde5b2a8f28df5fbfd9026e1d</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749655880</data>
+</node>
+<node id="Hộ Gia Đình, Cá Nhân">
+  <data key="d0">Hộ Gia Đình, Cá Nhân</data>
+  <data key="d1">person</data>
+  <data key="d2">Hộ Gia Đình, Cá Nhân are individuals or households that use land and may be eligible for land allocation.</data>
+  <data key="d3">chunk-1d0a130dde5b2a8f28df5fbfd9026e1d</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749655880</data>
+</node>
+<node id="Cộng Đồng Dân Cư">
+  <data key="d0">Cộng Đồng Dân Cư</data>
+  <data key="d1">person</data>
+  <data key="d2">Cộng Đồng Dân Cư are communities that use land and may be eligible for land allocation.</data>
+  <data key="d3">chunk-1d0a130dde5b2a8f28df5fbfd9026e1d</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749655880</data>
+</node>
+<node id="Đất Nông Nghiệp">
+  <data key="d0">Đất Nông Nghiệp</data>
+  <data key="d1">category</data>
+  <data key="d2">Đất Nông Nghiệp is a type of land used for agricultural purposes.</data>
+  <data key="d3">chunk-1d0a130dde5b2a8f28df5fbfd9026e1d</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749655880</data>
+</node>
+<node id="Đất Ở">
+  <data key="d0">Đất Ở</data>
+  <data key="d1">category</data>
+  <data key="d2">Đất Ở is a type of land used for residential purposes.</data>
+  <data key="d3">chunk-1d0a130dde5b2a8f28df5fbfd9026e1d</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749655880</data>
+</node>
+<node id="Nhà Tình Nghĩa, Nhà Tình Thương, Nhà Đại Đoàn Kết">
+  <data key="d0">Nhà Tình Nghĩa, Nhà Tình Thương, Nhà Đại Đoàn Kết</data>
+  <data key="d1">category</data>
+  <data key="d2">Nhà Tình Nghĩa, Nhà Tình Thương, Nhà Đại Đoàn Kết are types of charitable or community buildings.</data>
+  <data key="d3">chunk-1d0a130dde5b2a8f28df5fbfd9026e1d</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749655880</data>
+</node>
+<node id="Chùa">
+  <data key="d0">Chùa</data>
+  <data key="d1">category</data>
+  <data key="d2">Chùa is a type of Buddhist temple or pagoda.</data>
+  <data key="d3">chunk-1d0a130dde5b2a8f28df5fbfd9026e1d</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749655880</data>
+</node>
+<node id="Đình, Đền, Miếu, Am">
+  <data key="d0">Đình, Đền, Miếu, Am</data>
+  <data key="d1">category</data>
+  <data key="d2">Đình, Đền, Miếu, Am are types of traditional Vietnamese communal houses or temples.</data>
+  <data key="d3">chunk-1d0a130dde5b2a8f28df5fbfd9026e1d</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749655880</data>
+</node>
+<node id="Đất sử dụng chung">
+  <data key="d0">Đất sử dụng chung</data>
+  <data key="d1">category</data>
+  <data key="d2">Đất sử dụng chung là loại đất được sử dụng cho mục đích chung của cộng đồng dân cư.</data>
+  <data key="d3">chunk-7927a9a5c3f169a5b89438b2254e90b6</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749655880</data>
+</node>
+<node id="Giấy tờ xác nhận">
+  <data key="d0">Giấy tờ xác nhận</data>
+  <data key="d1">category</data>
+  <data key="d2">Giấy tờ xác nhận là loại giấy tờ pháp lý do Ủy ban nhân dân cấp xã cấp, xác nhận đất sử dụng chung cho cộng đồng dân cư.</data>
+  <data key="d3">chunk-7927a9a5c3f169a5b89438b2254e90b6</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749655880</data>
+</node>
+<node id="Khu vực địa lý">
+  <data key="d0">Khu vực địa lý</data>
+  <data key="d1">geo</data>
+  <data key="d2">Khu vực địa lý là vùng lãnh thổ nơi cộng đồng dân cư sống và sử dụng đất chung.</data>
+  <data key="d3">chunk-7927a9a5c3f169a5b89438b2254e90b6</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749655880</data>
+</node>
+<node id="Luật này">
+  <data key="d0">Luật này</data>
+  <data key="d1">organization</data>
+  <data key="d2">Luật này là một văn bản pháp luật quy định về chế độ sở hữu đất đai và quản lý đất đai tại Việt Nam.&lt;SEP&gt;Luật này là văn bản pháp luật quy định về việc xác định loại đất và các thủ tục liên quan.&lt;SEP&gt;Luật này là văn bản quy phạm pháp luật quy định về sở hữu và quản lý đất đai.</data>
+  <data key="d3">chunk-32fa20132f34131ad8d6a1dbf22a56db&lt;SEP&gt;chunk-a04ff08bad380dd4135e8de69ff04a3f&lt;SEP&gt;chunk-9e5a73896d10a18010a7172d714c0f56</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749655958</data>
+</node>
+<node id="Điều 137">
+  <data key="d0">Điều 137</data>
+  <data key="d1">category</data>
+  <data key="d2">Điều 137 là một điều khoản trong Luật này quy định về giấy tờ về quyền sử dụng đất.</data>
+  <data key="d3">chunk-32fa20132f34131ad8d6a1dbf22a56db</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749655900</data>
+</node>
+<node id="Cơ quan nhà nước có thẩm quyền">
+  <data key="d0">Cơ quan nhà nước có thẩm quyền</data>
+  <data key="d1">organization</data>
+  <data key="d2">Cơ quan nhà nước có thẩm quyền là cơ quan có quyền quyết định và giao đất, cho thuê đất, cho phép chuyển mục đích sử dụng đất.&lt;SEP&gt;Cơ quan nhà nước có thẩm quyền là cơ quan có quyền quyết định và quản lý đất.</data>
+  <data key="d3">chunk-32fa20132f34131ad8d6a1dbf22a56db&lt;SEP&gt;chunk-df1cf85b8f6adb27f254ca957d057cb7</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749655983</data>
+</node>
+<node id="Quyết định giao đất">
+  <data key="d0">Quyết định giao đất</data>
+  <data key="d1">event</data>
+  <data key="d2">Quyết định giao đất là sự kiện giao đất từ cơ quan nhà nước có thẩm quyền cho một cá nhân hoặc tổ chức.</data>
+  <data key="d3">chunk-32fa20132f34131ad8d6a1dbf22a56db</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749655900</data>
+</node>
+<node id="Quyết định cho thuê đất">
+  <data key="d0">Quyết định cho thuê đất</data>
+  <data key="d1">event</data>
+  <data key="d2">Quyết định cho thuê đất là sự kiện cho thuê đất từ cơ quan nhà nước có thẩm quyền cho một cá nhân hoặc tổ chức.</data>
+  <data key="d3">chunk-32fa20132f34131ad8d6a1dbf22a56db</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749655900</data>
+</node>
+<node id="Quyết định cho phép chuyển mục đích sử dụng đất">
+  <data key="d0">Quyết định cho phép chuyển mục đích sử dụng đất</data>
+  <data key="d1">event</data>
+  <data key="d2">Quyết định cho phép chuyển mục đích sử dụng đất là sự kiện cho phép chuyển mục đích sử dụng đất từ cơ quan nhà nước có thẩm quyền cho một cá nhân hoặc tổ chức.</data>
+  <data key="d3">chunk-32fa20132f34131ad8d6a1dbf22a56db</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749655900</data>
+</node>
+<node id="Giấy tờ về quyền sử dụng đất">
+  <data key="d0">Giấy tờ về quyền sử dụng đất</data>
+  <data key="d1">category</data>
+  <data key="d2">Giấy tờ về quyền sử dụng đất là loại giấy tờ pháp lý chứng minh quyền sử dụng đất của một cá nhân hoặc tổ chức.</data>
+  <data key="d3">chunk-32fa20132f34131ad8d6a1dbf22a56db</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749655900</data>
+</node>
+<node id="Phân loại đất">
+  <data key="d0">Phân loại đất</data>
+  <data key="d1">category</data>
+  <data key="d2">Phân loại đất là việc phân loại đất dựa trên các tiêu chí và quy định của pháp luật.</data>
+  <data key="d3">chunk-32fa20132f34131ad8d6a1dbf22a56db</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749655900</data>
+</node>
+<node id="Nhà Nước">
+  <data key="d0">Nhà Nước</data>
+  <data key="d1">organization</data>
+  <data key="d2">Nhà Nước là đại diện chủ sở hữu về đất đai, có quyền hạn và trách nhiệm trong quản lý đất đai.</data>
+  <data key="d3">chunk-83d36791502004981877f3d273f70fde</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749655922</data>
+</node>
+<node id="Đồng Bào Dân Tộc Thiểu Số">
+  <data key="d0">Đồng Bào Dân Tộc Thiểu Số</data>
+  <data key="d1">category</data>
+  <data key="d2">Đồng bào dân tộc thiểu số là một nhóm người được hưởng chính sách về đất đai đặc biệt.</data>
+  <data key="d3">chunk-83d36791502004981877f3d273f70fde</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749655922</data>
+</node>
+<node id="Cơ Quan Có Thẩm Quyền">
+  <data key="d0">Cơ Quan Có Thẩm Quyền</data>
+  <data key="d1">organization</data>
+  <data key="d2">Cơ quan có thẩm quyền là tổ chức chịu trách nhiệm quản lý và thực hiện quy định của pháp luật về đất đai.</data>
+  <data key="d3">chunk-83d36791502004981877f3d273f70fde</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749655922</data>
+</node>
+<node id="Người Sử Dụng Đất">
+  <data key="d0">Người Sử Dụng Đất</data>
+  <data key="d1">person</data>
+  <data key="d2">Người Sử Dụng Đất là những cá nhân hoặc tổ chức được phép sử dụng đất đai theo quy định của pháp luật.&lt;SEP&gt;Người sử dụng đất là cá nhân hoặc tổ chức được quyền sử dụng đất theo quy định của pháp luật.</data>
+  <data key="d3">chunk-83d36791502004981877f3d273f70fde&lt;SEP&gt;chunk-0af8c1d084adb05c320cf722f9de8fd6</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749655926</data>
+</node>
+<node id="Chính Sách Đất Đai">
+  <data key="d0">Chính Sách Đất Đai</data>
+  <data key="d1">event</data>
+  <data key="d2">Chính sách đất đai là sự kiện quan trọng liên quan đến quản lý và sử dụng đất đai.</data>
+  <data key="d3">chunk-83d36791502004981877f3d273f70fde</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749655922</data>
+</node>
+<node id="Pháp Luật Về Đất Đai">
+  <data key="d0">Pháp Luật Về Đất Đai</data>
+  <data key="d1">event</data>
+  <data key="d2">Pháp luật về đất đai là hệ thống quy định và luật lệ điều chỉnh việc quản lý và sử dụng đất đai.</data>
+  <data key="d3">chunk-83d36791502004981877f3d273f70fde</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749655922</data>
+</node>
+<node id="Quy Định Của Pháp Luật">
+  <data key="d0">Quy Định Của Pháp Luật</data>
+  <data key="d1">event</data>
+  <data key="d2">Quy định của pháp luật là hệ thống quy tắc và luật lệ điều chỉnh các hoạt động trong lĩnh vực đất đai.</data>
+  <data key="d3">chunk-83d36791502004981877f3d273f70fde</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749655922</data>
+</node>
+<node id="Hành Vi Vi Phạm">
+  <data key="d0">Hành Vi Vi Phạm</data>
+  <data key="d1">event</data>
+  <data key="d2">Hành vi vi phạm là hành động trái với quy định của pháp luật về đất đai.</data>
+  <data key="d3">chunk-83d36791502004981877f3d273f70fde</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749655922</data>
+</node>
+<node id="Lợi Ich Funktion">
+  <data key="d0">Lợi Ich Funktion</data>
+  <data key="d1">event</data>
+  <data key="d2">Lợi ích chức vụ là hành vi sử dụng chức vụ, quyền hạn để làm trái quy định của pháp luật về đất đai.</data>
+  <data key="d3">chunk-83d36791502004981877f3d273f70fde</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749655922</data>
+</node>
+<node id="Thông Tin Đất Đai">
+  <data key="d0">Thông Tin Đất Đai</data>
+  <data key="d1">event</data>
+  <data key="d2">Thông tin đất đai là dữ liệu và thông tin liên quan đến đất đai, được sử dụng để quản lý và thực hiện quy định của pháp luật.</data>
+  <data key="d3">chunk-83d36791502004981877f3d273f70fde</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749655922</data>
+</node>
+<node id="Nghĩa Vụ Tài Chính">
+  <data key="d0">Nghĩa Vụ Tài Chính</data>
+  <data key="d1">event</data>
+  <data key="d2">Nghĩa vụ tài chính là trách nhiệm của người sử dụng đất trong việc thực hiện các nghĩa vụ tài chính theo quy định của pháp luật.</data>
+  <data key="d3">chunk-83d36791502004981877f3d273f70fde</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749655922</data>
+</node>
+<node id="Quyền Sử Dụng Đất">
+  <data key="d0">Quyền Sử Dụng Đất</data>
+  <data key="d1">event</data>
+  <data key="d2">Quyền sử dụng đất là quyền của người sử dụng đất được sử dụng đất theo quy định của pháp luật.</data>
+  <data key="d3">chunk-83d36791502004981877f3d273f70fde</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749655922</data>
+</node>
+<node id="Môi Trường">
+  <data key="d0">Môi Trường</data>
+  <data key="d1">geo</data>
+  <data key="d2">Môi Trường là khu vực hoặc không gian bao quanh chúng ta, cần được bảo vệ và giữ gìn.</data>
+  <data key="d3">chunk-0af8c1d084adb05c320cf722f9de8fd6</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749655926</data>
+</node>
+<node id="Biến Đổi Khí Hậu">
+  <data key="d0">Biến Đổi Khí Hậu</data>
+  <data key="d1">event</data>
+  <data key="d2">Biến Đổi Khí Hậu là một hiện tượng hoặc sự kiện ảnh hưởng đến môi trường và cuộc sống con người.</data>
+  <data key="d3">chunk-0af8c1d084adb05c320cf722f9de8fd6</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749655926</data>
+</node>
+<node id="Thuốc Bảo Vệ Thực Vật">
+  <data key="d0">Thuốc Bảo Vệ Thực Vật</data>
+  <data key="d1">category</data>
+  <data key="d2">Thuốc Bảo Vệ Thực Vật là một loại hóa chất hoặc sản phẩm được sử dụng để bảo vệ cây trồng.</data>
+  <data key="d3">chunk-0af8c1d084adb05c320cf722f9de8fd6</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749655926</data>
+</node>
+<node id="Đất Đai">
+  <data key="d0">Đất Đai</data>
+  <data key="d1">geo</data>
+  <data key="d2">Đất Đai là khu vực hoặc không gian bao quanh chúng ta, cần được bảo vệ và giữ gìn.</data>
+  <data key="d3">chunk-0af8c1d084adb05c320cf722f9de8fd6</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749655926</data>
+</node>
+<node id="Phân Hóa Học">
+  <data key="d0">Phân Hóa Học</data>
+  <data key="d1">category</data>
+  <data key="d2">Phân Hóa Học là một loại hóa chất hoặc sản phẩm được sử dụng để bảo vệ cây trồng.</data>
+  <data key="d3">chunk-0af8c1d084adb05c320cf722f9de8fd6</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749655926</data>
+</node>
+<node id="Tài Nguyên">
+  <data key="d0">Tài Nguyên</data>
+  <data key="d1">geo</data>
+  <data key="d2">Tài Nguyên là nguồn lực hoặc nguyên liệu được sử dụng để phát triển kinh tế và xã hội.</data>
+  <data key="d3">chunk-0af8c1d084adb05c320cf722f9de8fd6</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749655926</data>
+</node>
+<node id="Bề Mặt Đất">
+  <data key="d0">Bề Mặt Đất</data>
+  <data key="d1">geo</data>
+  <data key="d2">Bề Mặt Đất là khu vực hoặc không gian trên bề mặt đất, cần được bảo vệ và giữ gìn.</data>
+  <data key="d3">chunk-0af8c1d084adb05c320cf722f9de8fd6</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749655926</data>
+</node>
+<node id="Lòng Đất">
+  <data key="d0">Lòng Đất</data>
+  <data key="d1">geo</data>
+  <data key="d2">Lòng Đất là khu vực hoặc không gian dưới lòng đất, cần được bảo vệ và giữ gìn.</data>
+  <data key="d3">chunk-0af8c1d084adb05c320cf722f9de8fd6</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749655926</data>
+</node>
+<node id="Tổ chức trong nước">
+  <data key="d0">Tổ chức trong nước</data>
+  <data key="d1">organization</data>
+  <data key="d2">Tổ chức trong nước là các tổ chức được thành lập và hoạt động trong phạm vi lãnh thổ Việt Nam, có trách nhiệm sử dụng đất theo quy định của pháp luật.&lt;SEP&gt;Tổ chức trong nước là đơn vị được giao quản lý công trình công cộng, hành lang bảo vệ an toàn các công trình, đất có mặt nước và quỹ đất đã thu hồi.</data>
+  <data key="d3">chunk-2c36ecaddfd4da25d70ed2760df7e6f1&lt;SEP&gt;chunk-df1cf85b8f6adb27f254ca957d057cb7</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749655983</data>
+</node>
+<node id="Chủ tịch Ủy ban nhân dân cấp xã">
+  <data key="d0">Chủ tịch Ủy ban nhân dân cấp xã</data>
+  <data key="d1">person</data>
+  <data key="d2">Chủ tịch Ủy ban nhân dân cấp xã là người chịu trách nhiệm đối với việc quản lý đất sử dụng vào mục đích công cộng được giao quản lý.&lt;SEP&gt;Chủ tịch Ủy ban nhân dân cấp xã là người đứng đầu Ủy ban nhân dân cấp xã, có trách nhiệm quản lý và sử dụng đất nông nghiệp và đất phi nông nghiệp cho mục đích công ích.</data>
+  <data key="d3">chunk-2c36ecaddfd4da25d70ed2760df7e6f1&lt;SEP&gt;chunk-df1cf85b8f6adb27f254ca957d057cb7</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749655983</data>
+</node>
+<node id="Trưởng thôn, làng, ấp, bản, bon, buôn, phum, sóc, tổ dân phố và điểm dân cư tương tự">
+  <data key="d0">Trưởng thôn, làng, ấp, bản, bon, buôn, phum, sóc, tổ dân phố và điểm dân cư tương tự</data>
+  <data key="d1">person</data>
+  <data key="d2">Trưởng thôn, làng, ấp, bản, bon, buôn, phum, sóc, tổ dân phố và điểm dân cư tương tự là người đại diện cho cộng đồng dân cư, có trách nhiệm quản lý và sử dụng đất theo quy định của pháp luật.</data>
+  <data key="d3">chunk-2c36ecaddfd4da25d70ed2760df7e6f1</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749655940</data>
+</node>
+<node id="Người đại diện tổ chức tôn giáo, tổ chức tôn giáo trực thuộc">
+  <data key="d0">Người đại diện tổ chức tôn giáo, tổ chức tôn giáo trực thuộc</data>
+  <data key="d1">person</data>
+  <data key="d2">Người đại diện tổ chức tôn giáo, tổ chức tôn giáo trực thuộc là người đại diện cho tổ chức tôn giáo, có trách nhiệm quản lý và sử dụng đất theo quy định của pháp luật.</data>
+  <data key="d3">chunk-2c36ecaddfd4da25d70ed2760df7e6f1</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749655940</data>
+</node>
+<node id="Cá nhân, người gốc Việt Nam định cư ở nước ngoài">
+  <data key="d0">Cá nhân, người gốc Việt Nam định cư ở nước ngoài</data>
+  <data key="d1">person</data>
+  <data key="d2">Cá nhân, người gốc Việt Nam định cư ở nước ngoài là người có quyền sử dụng đất tại Việt Nam, có trách nhiệm sử dụng đất theo quy định của pháp luật.</data>
+  <data key="d3">chunk-2c36ecaddfd4da25d70ed2760df7e6f1</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749655940</data>
+</node>
+<node id="Tổ chức tôn giáo, tổ chức tôn giáo trực thuộc">
+  <data key="d0">Tổ chức tôn giáo, tổ chức tôn giáo trực thuộc</data>
+  <data key="d1">organization</data>
+  <data key="d2">Tổ chức tôn giáo, tổ chức tôn giáo trực thuộc là các tổ chức được thành lập và hoạt động tại Việt Nam, có chức năng tôn giáo, có trách nhiệm sử dụng đất theo quy định của pháp luật.</data>
+  <data key="d3">chunk-2c36ecaddfd4da25d70ed2760df7e6f1</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749655940</data>
+</node>
+<node id="Người đại diện theo pháp luật của tổ chức trong nước">
+  <data key="d0">Người đại diện theo pháp luật của tổ chức trong nước</data>
+  <data key="d3">chunk-2c36ecaddfd4da25d70ed2760df7e6f1</data>
+  <data key="d2">Người đại diện theo pháp luật của tổ chức trong nước là người có trách nhiệm quản lý và sử dụng đất của tổ chức mình.</data>
+  <data key="d1">UNKNOWN</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749655940</data>
+</node>
+<node id="Người đại diện theo pháp luật của tổ chức kinh tế có vốn đầu tư nước ngoài">
+  <data key="d0">Người đại diện theo pháp luật của tổ chức kinh tế có vốn đầu tư nước ngoài</data>
+  <data key="d3">chunk-2c36ecaddfd4da25d70ed2760df7e6f1</data>
+  <data key="d2">Người đại diện theo pháp luật của tổ chức kinh tế có vốn đầu tư nước ngoài là người có trách nhiệm quản lý và sử dụng đất của tổ chức mình.</data>
+  <data key="d1">UNKNOWN</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749655940</data>
+</node>
+<node id="Người đứng đầu của tổ chức nước ngoài có chức năng ngoại giao">
+  <data key="d0">Người đứng đầu của tổ chức nước ngoài có chức năng ngoại giao</data>
+  <data key="d3">chunk-2c36ecaddfd4da25d70ed2760df7e6f1</data>
+  <data key="d2">Người đứng đầu của tổ chức nước ngoài có chức năng ngoại giao là người có trách nhiệm quản lý và sử dụng đất của tổ chức mình.</data>
+  <data key="d1">UNKNOWN</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749655940</data>
+</node>
+<node id="Sở hữu toàn dân">
+  <data key="d0">Sở hữu toàn dân</data>
+  <data key="d1">category</data>
+  <data key="d2">Sở hữu toàn dân là hình thức sở hữu đất đai, trong đó toàn dân sở hữu đất đai thông qua Nhà nước đại diện chủ sở hữu.</data>
+  <data key="d3">chunk-9e5a73896d10a18010a7172d714c0f56</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749655949</data>
+</node>
+<node id="Quyền sử dụng đất">
+  <data key="d0">Quyền sử dụng đất</data>
+  <data key="d1">category</data>
+  <data key="d2">Quyền sử dụng đất là quyền được Nhà nước trao cho người sử dụng đất, cho phép họ sử dụng đất đai theo quy định của Luật này.</data>
+  <data key="d3">chunk-9e5a73896d10a18010a7172d714c0f56</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749655949</data>
+</node>
+<node id="Quản lý đất đai">
+  <data key="d0">Quản lý đất đai</data>
+  <data key="d1">category</data>
+  <data key="d2">Quản lý đất đai là hoạt động của Nhà nước trong việc thống nhất quản lý, bảo vệ và phát triển đất đai, đảm bảo sử dụng đất đai hiệu quả và bền vững.</data>
+  <data key="d3">chunk-9e5a73896d10a18010a7172d714c0f56</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749655949</data>
+</node>
+<node id="Cộng hòa xã hội chủ nghĩa Việt Nam">
+  <data key="d0">Cộng hòa xã hội chủ nghĩa Việt Nam</data>
+  <data key="d1">geo</data>
+  <data key="d2">Cộng hòa xã hội chủ nghĩa Việt Nam là quốc gia nơi Luật này được áp dụng.</data>
+  <data key="d3">chunk-a04ff08bad380dd4135e8de69ff04a3f</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749655958</data>
+</node>
+<node id="Công dân">
+  <data key="d0">Công dân</data>
+  <data key="d1">person</data>
+  <data key="d2">Công dân là những người có quyền và nghĩa vụ đối với đất đai theo Luật này.</data>
+  <data key="d3">chunk-a04ff08bad380dd4135e8de69ff04a3f</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749655958</data>
+</node>
+<node id="Chế độ sở hữu đất đai">
+  <data key="d0">Chế độ sở hữu đất đai</data>
+  <data key="d1">category</data>
+  <data key="d2">Chế độ sở hữu đất đai là một hệ thống quy định về quyền sở hữu và sử dụng đất đai.</data>
+  <data key="d3">chunk-a04ff08bad380dd4135e8de69ff04a3f</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749655958</data>
+</node>
+<node id="Quyền hạn và trách nhiệm của Nhà nước">
+  <data key="d0">Quyền hạn và trách nhiệm của Nhà nước</data>
+  <data key="d1">category</data>
+  <data key="d2">Quyền hạn và trách nhiệm của Nhà nước là các quyền và nghĩa vụ của Nhà nước trong việc quản lý và sử dụng đất đai.</data>
+  <data key="d3">chunk-a04ff08bad380dd4135e8de69ff04a3f</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749655958</data>
+</node>
+<node id="Lãnh thổ của nước Cộng hòa xã hội chủ nghĩa Việt Nam">
+  <data key="d0">Lãnh thổ của nước Cộng hòa xã hội chủ nghĩa Việt Nam</data>
+  <data key="d1">geo</data>
+  <data key="d2">Lãnh thổ của nước Cộng hòa xã hội chủ nghĩa Việt Nam là khu vực địa lý nơi Luật này được áp dụng.</data>
+  <data key="d3">chunk-a04ff08bad380dd4135e8de69ff04a3f</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749655958</data>
+</node>
+<node id="Chủ tịch Ủy ban nhân dân cấp huyện">
+  <data key="d0">Chủ tịch Ủy ban nhân dân cấp huyện</data>
+  <data key="d1">person</data>
+  <data key="d2">Chủ tịch Ủy ban nhân dân cấp huyện là người chịu trách nhiệm đối với việc quản lý đất chưa giao, đất chưa cho thuê tại địa phương.</data>
+  <data key="d3">chunk-df1cf85b8f6adb27f254ca957d057cb7</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749655983</data>
+</node>
+<node id="Chủ tịch Ủy ban nhân dân cấp tỉnh">
+  <data key="d0">Chủ tịch Ủy ban nhân dân cấp tỉnh</data>
+  <data key="d1">person</data>
+  <data key="d2">Chủ tịch Ủy ban nhân dân cấp tỉnh là người chịu trách nhiệm đối với việc quản lý đất chưa sử dụng tại các đảo chưa giao cho đơn vị hành chính cấp huyện, cấp xã quản lý.</data>
+  <data key="d3">chunk-df1cf85b8f6adb27f254ca957d057cb7</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749655983</data>
+</node>
+<node id="Người đại diện của tổ chức">
+  <data key="d0">Người đại diện của tổ chức</data>
+  <data key="d1">person</data>
+  <data key="d2">Người đại diện của tổ chức là người chịu trách nhiệm đối với việc quản lý đất trong các trường hợp được giao quản lý.</data>
+  <data key="d3">chunk-df1cf85b8f6adb27f254ca957d057cb7</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749655983</data>
+</node>
+<node id="Người đại diện cho cộng đồng dân cư">
+  <data key="d0">Người đại diện cho cộng đồng dân cư</data>
+  <data key="d1">person</data>
+  <data key="d2">Người đại diện cho cộng đồng dân cư là người chịu trách nhiệm đối với đất được giao cho cộng đồng dân cư quản lý.</data>
+  <data key="d3">chunk-df1cf85b8f6adb27f254ca957d057cb7</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749655983</data>
+</node>
+<node id="Đất">
+  <data key="d0">Đất</data>
+  <data key="d1">geo</data>
+  <data key="d2">Đất là tài nguyên thiên nhiên được giao quản lý cho các tổ chức và cá nhân.</data>
+  <data key="d3">chunk-df1cf85b8f6adb27f254ca957d057cb7</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749655983</data>
+</node>
+<node id="Công trình công cộng">
+  <data key="d0">Công trình công cộng</data>
+  <data key="d1">event</data>
+  <data key="d2">Công trình công cộng là dự án được xây dựng để phục vụ lợi ích công cộng.</data>
+  <data key="d3">chunk-df1cf85b8f6adb27f254ca957d057cb7</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749655983</data>
+</node>
+<node id="Hành lang bảo vệ an toàn các công trình">
+  <data key="d0">Hành lang bảo vệ an toàn các công trình</data>
+  <data key="d1">event</data>
+  <data key="d2">Hành lang bảo vệ an toàn các công trình là khu vực được thiết lập để bảo vệ an toàn cho các công trình.</data>
+  <data key="d3">chunk-df1cf85b8f6adb27f254ca957d057cb7</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749655983</data>
+</node>
+<node id="Quỹ đất đã thu hồi">
+  <data key="d0">Quỹ đất đã thu hồi</data>
+  <data key="d1">event</data>
+  <data key="d2">Quỹ đất đã thu hồi là đất được thu hồi từ các tổ chức và cá nhân để phục vụ mục đích công cộng.</data>
+  <data key="d3">chunk-df1cf85b8f6adb27f254ca957d057cb7</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749655983</data>
+</node>
+<node id="Đảo">
+  <data key="d0">Đảo</data>
+  <data key="d1">geo</data>
+  <data key="d2">Đảo là khu vực địa lý được giao quản lý cho các tổ chức và cá nhân.</data>
+  <data key="d3">chunk-df1cf85b8f6adb27f254ca957d057cb7</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749655983</data>
+</node>
+<node id="Dự án đầu tư">
+  <data key="d0">Dự án đầu tư</data>
+  <data key="d1">event</data>
+  <data key="d2">Dự án đầu tư là kế hoạch được xây dựng để thực hiện các hoạt động kinh tế.</data>
+  <data key="d3">chunk-df1cf85b8f6adb27f254ca957d057cb7</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749655983</data>
+</node>
+<node id="Quản lý đất">
+  <data key="d0">Quản lý đất</data>
+  <data key="d3">chunk-df1cf85b8f6adb27f254ca957d057cb7</data>
+  <data key="d2">Pháp luật quy định và điều chỉnh các hoạt động quản lý đất.</data>
+  <data key="d1">UNKNOWN</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749655983</data>
+</node>
+<edge source="Nhà nước" target="Đất đai">
+  <data key="d6">27.0</data>
+  <data key="d7">Nhà nước là đại diện chủ sở hữu toàn dân về đất đai và có trách nhiệm quản lý về đất đai.&lt;SEP&gt;Nhà nước là đại diện chủ sở hữu về đất đai, có quyền quyết định quy hoạch sử dụng đất, mục đích sử dụng đất, và các quyết định khác liên quan đến đất đai.&lt;SEP&gt;Nhà nước đại diện chủ sở hữu và thống nhất quản lý đất đai.</data>
+  <data key="d8">quyền sở hữu,quản lý đất đai,sở hữu toàn dân</data>
+  <data key="d9">chunk-a04ff08bad380dd4135e8de69ff04a3f&lt;SEP&gt;chunk-3d7430474b8c0567cb4969f22ad7777e&lt;SEP&gt;chunk-9e5a73896d10a18010a7172d714c0f56</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1749655958</data>
+</edge>
+<edge source="Nhà nước" target="Người sử dụng đất">
+  <data key="d6">16.0</data>
+  <data key="d7">Nhà nước quy định quyền và nghĩa vụ của người sử dụng đất, và có quyền quyết định giao đất, cho thuê đất, công nhận quyền sử dụng đất.&lt;SEP&gt;Nhà nước trao quyền sử dụng đất cho người sử dụng đất theo quy định của Luật này.</data>
+  <data key="d8">quy định,quyền quản lý,quyền sử dụng đất,quản lý đất đai</data>
+  <data key="d9">chunk-3d7430474b8c0567cb4969f22ad7777e&lt;SEP&gt;chunk-9e5a73896d10a18010a7172d714c0f56</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1749655949</data>
+</edge>
+<edge source="Nhà nước" target="Giao đất">
+  <data key="d6">8.0</data>
+  <data key="d7">Nhà nước giao đất cho người sử dụng đất, và có quyền quyết định về hạn mức sử dụng đất.</data>
+  <data key="d8">quyền giao đất,quản lý</data>
+  <data key="d9">chunk-3d7430474b8c0567cb4969f22ad7777e</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1749655737</data>
+</edge>
+<edge source="Nhà nước" target="Cho thuê đất">
+  <data key="d6">7.0</data>
+  <data key="d7">Nhà nước cho người sử dụng đất sử dụng đất trong một thời gian nhất định, và có quyền quyết định về hạn mức sử dụng đất.</data>
+  <data key="d8">quyền cho thuê đất,quản lý</data>
+  <data key="d9">chunk-3d7430474b8c0567cb4969f22ad7777e</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1749655737</data>
+</edge>
+<edge source="Nhà nước" target="Công nhận quyền sử dụng đất">
+  <data key="d6">8.0</data>
+  <data key="d7">Nhà nước công nhận quyền sử dụng đất của người sử dụng đất, và có quyền quyết định về hạn mức sử dụng đất.</data>
+  <data key="d8">quyền công nhận,quản lý</data>
+  <data key="d9">chunk-3d7430474b8c0567cb4969f22ad7777e</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1749655737</data>
+</edge>
+<edge source="Nhà nước" target="Cơ quan nhà nước">
+  <data key="d6">8.0</data>
+  <data key="d7">Nhà nước giao đất, cho thuê đất, công nhận quyền sử dụng đất cho cơ quan nhà nước.</data>
+  <data key="d8">quyền lực,quản lý đất đai</data>
+  <data key="d9">chunk-815c63419768ab291e36f773e4370eb9</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1749655865</data>
+</edge>
+<edge source="Nhà nước" target="Tổ chức kinh tế">
+  <data key="d6">8.0</data>
+  <data key="d7">Nhà nước giao đất, cho thuê đất, công nhận quyền sử dụng đất cho tổ chức kinh tế.</data>
+  <data key="d8">quyền lực,quản lý đất đai</data>
+  <data key="d9">chunk-815c63419768ab291e36f773e4370eb9</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1749655865</data>
+</edge>
+<edge source="Nhà nước" target="Luật này">
+  <data key="d6">10.0</data>
+  <data key="d7">Luật này quy định về sở hữu và quản lý đất đai, trong đó Nhà nước đại diện chủ sở hữu và quản lý đất đai.</data>
+  <data key="d8">quy phạm pháp luật,quản lý đất đai</data>
+  <data key="d9">chunk-9e5a73896d10a18010a7172d714c0f56</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1749655949</data>
+</edge>
+<edge source="Nhà nước" target="Quản lý đất đai">
+  <data key="d6">10.0</data>
+  <data key="d7">Quản lý đất đai là hoạt động của Nhà nước trong việc thống nhất quản lý, bảo vệ và phát triển đất đai, đảm bảo sử dụng đất đai hiệu quả và bền vững.</data>
+  <data key="d8">Nhà nước,quản lý đất đai</data>
+  <data key="d9">chunk-9e5a73896d10a18010a7172d714c0f56</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1749655949</data>
+</edge>
+<edge source="Nhà nước" target="Toàn dân">
+  <data key="d6">8.0</data>
+  <data key="d7">Nhà nước đại diện cho toàn dân trong việc quản lý và sử dụng đất đai.</data>
+  <data key="d8">quản lý đất đai,đại diện</data>
+  <data key="d9">chunk-a04ff08bad380dd4135e8de69ff04a3f</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1749655958</data>
+</edge>
+<edge source="Nhà nước" target="Tổ chức trong nước">
+  <data key="d6">8.0</data>
+  <data key="d7">Nhà nước giao quản lý đất cho tổ chức trong nước.</data>
+  <data key="d8">giao quản lý,quản lý đất</data>
+  <data key="d9">chunk-df1cf85b8f6adb27f254ca957d057cb7</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1749655983</data>
+</edge>
+<edge source="Đất đai" target="Quy hoạch sử dụng đất">
+  <data key="d6">7.0</data>
+  <data key="d7">Đất đai là đối tượng của quy hoạch sử dụng đất, được quyết định bởi Nhà nước.</data>
+  <data key="d8">quản lý,đối tượng quy hoạch</data>
+  <data key="d9">chunk-3d7430474b8c0567cb4969f22ad7777e</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1749655737</data>
+</edge>
+<edge source="Đất đai" target="Cơ quan nhà nước">
+  <data key="d6">9.0</data>
+  <data key="d7">Cơ quan nhà nước có trách nhiệm quản lý và bảo vệ đất đai, đảm bảo sử dụng hiệu quả và bền vững.</data>
+  <data key="d8">bảo vệ,quản lý</data>
+  <data key="d9">chunk-14f425d966c49e0fd0eafa96bfab983c</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1749655843</data>
+</edge>
+<edge source="Đất đai" target="Người sử dụng đất">
+  <data key="d6">14.0</data>
+  <data key="d7">Người sử dụng đất được Nhà nước trao quyền sử dụng đất theo quy định của Luật này.&lt;SEP&gt;Người sử dụng đất được phép sử dụng đất đai theo quy định pháp luật, phải tuân thủ các quy định về quản lý và bảo vệ đất đai.</data>
+  <data key="d8">quyền lợi,sử dụng,sử dụng đất,tuân thủ</data>
+  <data key="d9">chunk-9e5a73896d10a18010a7172d714c0f56&lt;SEP&gt;chunk-14f425d966c49e0fd0eafa96bfab983c</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1749655949</data>
+</edge>
+<edge source="Đất đai" target="Hộ gia đình">
+  <data key="d6">7.0</data>
+  <data key="d7">Hộ gia đình được đề cập trong văn bản liên quan đến quyền sử dụng đất.</data>
+  <data key="d8">hộ gia đình,đất đai</data>
+  <data key="d9">chunk-84a885a6c8cdb51f06c780070d62ed55</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1749655880</data>
+</edge>
+<edge source="Đất đai" target="Sở hữu toàn dân">
+  <data key="d6">9.0</data>
+  <data key="d7">Sở hữu toàn dân là hình thức sở hữu đất đai, trong đó toàn dân sở hữu đất đai thông qua Nhà nước đại diện chủ sở hữu.</data>
+  <data key="d8">sở hữu đất đai,toàn dân</data>
+  <data key="d9">chunk-9e5a73896d10a18010a7172d714c0f56</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1749655949</data>
+</edge>
+<edge source="Đất đai" target="Công dân">
+  <data key="d6">7.0</data>
+  <data key="d7">Công dân có quyền và nghĩa vụ đối với đất đai theo Luật này.</data>
+  <data key="d8">quyền và nghĩa vụ,sử dụng đất đai</data>
+  <data key="d9">chunk-a04ff08bad380dd4135e8de69ff04a3f</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1749655958</data>
+</edge>
+<edge source="Đất đai" target="Chế độ sở hữu đất đai">
+  <data key="d6">9.0</data>
+  <data key="d7">Chế độ sở hữu đất đai quy định về quyền sở hữu và sử dụng đất đai.</data>
+  <data key="d8">quy định,sở hữu đất đai</data>
+  <data key="d9">chunk-a04ff08bad380dd4135e8de69ff04a3f</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1749655958</data>
+</edge>
+<edge source="Đất đai" target="Quyền hạn và trách nhiệm của Nhà nước">
+  <data key="d6">8.0</data>
+  <data key="d7">Quyền hạn và trách nhiệm của Nhà nước liên quan đến việc quản lý và sử dụng đất đai.</data>
+  <data key="d8">quản lý,sử dụng đất đai</data>
+  <data key="d9">chunk-a04ff08bad380dd4135e8de69ff04a3f</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1749655958</data>
+</edge>
+<edge source="Quy hoạch sử dụng đất" target="Người sử dụng đất">
+  <data key="d6">6.0</data>
+  <data key="d7">Người sử dụng đất phải tuân theo quy hoạch sử dụng đất, và có quyền lợi và nghĩa vụ theo quy định của Nhà nước.</data>
+  <data key="d8">quyền lợi,tuân thủ quy hoạch</data>
+  <data key="d9">chunk-3d7430474b8c0567cb4969f22ad7777e</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1749655737</data>
+</edge>
+<edge source="Người sử dụng đất" target="Giao đất">
+  <data key="d6">6.0</data>
+  <data key="d7">Người sử dụng đất được giao đất bởi Nhà nước, và có quyền lợi và nghĩa vụ theo quy định của Nhà nước.</data>
+  <data key="d8">quyền lợi,quyền được giao đất</data>
+  <data key="d9">chunk-3d7430474b8c0567cb4969f22ad7777e</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1749655737</data>
+</edge>
+<edge source="Người sử dụng đất" target="Cho thuê đất">
+  <data key="d6">6.0</data>
+  <data key="d7">Người sử dụng đất được cho thuê đất bởi Nhà nước, và có quyền lợi và nghĩa vụ theo quy định của Nhà nước.</data>
+  <data key="d8">quyền lợi,quyền được cho thuê đất</data>
+  <data key="d9">chunk-3d7430474b8c0567cb4969f22ad7777e</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1749655737</data>
+</edge>
+<edge source="Người sử dụng đất" target="Công nhận quyền sử dụng đất">
+  <data key="d6">6.0</data>
+  <data key="d7">Người sử dụng đất được công nhận quyền sử dụng đất bởi Nhà nước, và có quyền lợi và nghĩa vụ theo quy định của Nhà nước.</data>
+  <data key="d8">quyền lợi,quyền được công nhận</data>
+  <data key="d9">chunk-3d7430474b8c0567cb4969f22ad7777e</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1749655737</data>
+</edge>
+<edge source="Người sử dụng đất" target="Cơ quan nhà nước">
+  <data key="d6">8.0</data>
+  <data key="d7">Cơ quan nhà nước thực hiện quản lý và cấp phép cho người sử dụng đất, đảm bảo việc sử dụng đất đai theo quy định pháp luật.</data>
+  <data key="d8">cấp phép,quản lý</data>
+  <data key="d9">chunk-14f425d966c49e0fd0eafa96bfab983c</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1749655843</data>
+</edge>
+<edge source="Người sử dụng đất" target="Pháp luật">
+  <data key="d6">8.0</data>
+  <data key="d7">Người sử dụng đất phải tuân thủ pháp luật về đất đai, đảm bảo sử dụng đất đai theo quy định và đúng pháp luật.</data>
+  <data key="d8">thực hiện,tuân thủ</data>
+  <data key="d9">chunk-14f425d966c49e0fd0eafa96bfab983c</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1749655843</data>
+</edge>
+<edge source="Người sử dụng đất" target="Quyền sử dụng đất">
+  <data key="d6">8.0</data>
+  <data key="d7">Quyền sử dụng đất là quyền được Nhà nước trao cho người sử dụng đất, cho phép họ sử dụng đất đai theo quy định của Luật này.</data>
+  <data key="d8">người sử dụng đất,quyền sử dụng đất</data>
+  <data key="d9">chunk-9e5a73896d10a18010a7172d714c0f56</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1749655949</data>
+</edge>
+<edge source="Chính phủ" target="Đất nông nghiệp">
+  <data key="d6">8.0</data>
+  <data key="d7">Chính phủ quy định chi tiết về phân loại đất nông nghiệp.</data>
+  <data key="d8">quy định,quản lý</data>
+  <data key="d9">chunk-b9745fb3c299c9cd92793005e3af002f</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1749655747</data>
+</edge>
+<edge source="Chính phủ" target="Đất phi nông nghiệp">
+  <data key="d6">8.0</data>
+  <data key="d7">Chính phủ quy định chi tiết về phân loại đất phi nông nghiệp.</data>
+  <data key="d8">quy định,quản lý</data>
+  <data key="d9">chunk-b9745fb3c299c9cd92793005e3af002f</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1749655747</data>
+</edge>
+<edge source="Chính phủ" target="Đất chưa sử dụng">
+  <data key="d6">8.0</data>
+  <data key="d7">Chính phủ quy định chi tiết về phân loại đất chưa sử dụng.</data>
+  <data key="d8">quy định,quản lý</data>
+  <data key="d9">chunk-b9745fb3c299c9cd92793005e3af002f</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1749655747</data>
+</edge>
+<edge source="Chính phủ" target="Luật này">
+  <data key="d6">9.0</data>
+  <data key="d7">Chính phủ là cơ quan ban hành và quy định Luật này, bao gồm cả việc xác định loại đất.</data>
+  <data key="d8">government regulation,law</data>
+  <data key="d9">chunk-32fa20132f34131ad8d6a1dbf22a56db</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1749655900</data>
+</edge>
+<edge source="Chính phủ" target="Cơ quan nhà nước có thẩm quyền">
+  <data key="d6">10.0</data>
+  <data key="d7">Chính phủ là cơ quan cao nhất trong hệ thống cơ quan nhà nước có thẩm quyền.</data>
+  <data key="d8">authority,government hierarchy</data>
+  <data key="d9">chunk-32fa20132f34131ad8d6a1dbf22a56db</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1749655900</data>
+</edge>
+<edge source="Đất nông nghiệp" target="Đất phi nông nghiệp">
+  <data key="d6">6.0</data>
+  <data key="d7">Đất nông nghiệp và đất phi nông nghiệp là hai loại đất khác nhau, có mục đích sử dụng khác nhau.</data>
+  <data key="d8">mục đích sử dụng,phân loại</data>
+  <data key="d9">chunk-b9745fb3c299c9cd92793005e3af002f</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1749655747</data>
+</edge>
+<edge source="Đất nông nghiệp" target="Đất chưa sử dụng">
+  <data key="d6">6.0</data>
+  <data key="d7">Đất nông nghiệp và đất chưa sử dụng là hai loại đất khác nhau, có mục đích sử dụng khác nhau.</data>
+  <data key="d8">mục đích sử dụng,phân loại</data>
+  <data key="d9">chunk-b9745fb3c299c9cd92793005e3af002f</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1749655747</data>
+</edge>
+<edge source="Đất nông nghiệp" target="Đất trồng cây hằng năm">
+  <data key="d6">9.0</data>
+  <data key="d7">Đất trồng cây hằng năm là một loại đất nông nghiệp.</data>
+  <data key="d8">nông nghiệp,phân loại</data>
+  <data key="d9">chunk-b9745fb3c299c9cd92793005e3af002f</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1749655747</data>
+</edge>
+<edge source="Đất nông nghiệp" target="Cá nhân, người gốc Việt Nam định cư ở nước ngoài">
+  <data key="d6">6.0</data>
+  <data key="d7">Cá nhân, người gốc Việt Nam định cư ở nước ngoài có quyền sử dụng đất nông nghiệp tại Việt Nam.</data>
+  <data key="d8">quyền lợi,sử dụng đất</data>
+  <data key="d9">chunk-2c36ecaddfd4da25d70ed2760df7e6f1</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1749655940</data>
+</edge>
+<edge source="Đất nông nghiệp" target="Ủy ban nhân dân cấp xã">
+  <data key="d6">8.0</data>
+  <data key="d7">Ủy ban nhân dân cấp xã có trách nhiệm quản lý và sử dụng đất nông nghiệp cho mục đích công ích.</data>
+  <data key="d8">quản lý,sử dụng đất</data>
+  <data key="d9">chunk-2c36ecaddfd4da25d70ed2760df7e6f1</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1749655940</data>
+</edge>
+<edge source="Đất phi nông nghiệp" target="Đất chưa sử dụng">
+  <data key="d6">6.0</data>
+  <data key="d7">Đất phi nông nghiệp và đất chưa sử dụng là hai loại đất khác nhau, có mục đích sử dụng khác nhau.</data>
+  <data key="d8">mục đích sử dụng,phân loại</data>
+  <data key="d9">chunk-b9745fb3c299c9cd92793005e3af002f</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1749655747</data>
+</edge>
+<edge source="Đất phi nông nghiệp" target="Cá nhân, người gốc Việt Nam định cư ở nước ngoài">
+  <data key="d6">6.0</data>
+  <data key="d7">Cá nhân, người gốc Việt Nam định cư ở nước ngoài có quyền sử dụng đất phi nông nghiệp tại Việt Nam.</data>
+  <data key="d8">quyền lợi,sử dụng đất</data>
+  <data key="d9">chunk-2c36ecaddfd4da25d70ed2760df7e6f1</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1749655940</data>
+</edge>
+<edge source="Đất phi nông nghiệp" target="Ủy ban nhân dân cấp xã">
+  <data key="d6">8.0</data>
+  <data key="d7">Ủy ban nhân dân cấp xã có trách nhiệm quản lý và sử dụng đất phi nông nghiệp cho mục đích công ích.</data>
+  <data key="d8">quản lý,sử dụng đất</data>
+  <data key="d9">chunk-2c36ecaddfd4da25d70ed2760df7e6f1</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1749655940</data>
+</edge>
+<edge source="Việt Nam" target="Cộng đồng dân cư">
+  <data key="d6">5.0</data>
+  <data key="d7">Cộng đồng dân cư là một phần của xã hội Việt Nam.</data>
+  <data key="d8">cộng đồng,quốc gia</data>
+  <data key="d9">chunk-815c63419768ab291e36f773e4370eb9</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1749655865</data>
+</edge>
+<edge source="Việt Nam" target="Người Việt Nam định cư ở nước ngoài">
+  <data key="d6">5.0</data>
+  <data key="d7">Người Việt Nam định cư ở nước ngoài là công dân Việt Nam sống ở nước ngoài.</data>
+  <data key="d8">nơi cư trú,quốc tịch</data>
+  <data key="d9">chunk-815c63419768ab291e36f773e4370eb9</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1749655865</data>
+</edge>
+<edge source="Việt Nam" target="Người gốc Việt Nam định cư ở nước ngoài">
+  <data key="d6">5.0</data>
+  <data key="d7">Người gốc Việt Nam định cư ở nước ngoài là người có gốc gác Việt Nam sống ở nước ngoài.</data>
+  <data key="d8">nơi cư trú,quốc tịch</data>
+  <data key="d9">chunk-815c63419768ab291e36f773e4370eb9</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1749655865</data>
+</edge>
+<edge source="Việt Nam" target="Tổ chức nước ngoài có chức năng ngoại giao">
+  <data key="d6">13.0</data>
+  <data key="d7">Tổ chức nước ngoài có chức năng ngoại giao hoạt động tại Việt Nam.&lt;SEP&gt;Tổ chức nước ngoài có chức năng ngoại giao là các tổ chức được thành lập và hoạt động tại Việt Nam, có chức năng ngoại giao, có trách nhiệm sử dụng đất theo quy định của pháp luật.</data>
+  <data key="d8">hoạt động ngoại giao,quản lý,quốc gia,sử dụng đất</data>
+  <data key="d9">chunk-2c36ecaddfd4da25d70ed2760df7e6f1&lt;SEP&gt;chunk-815c63419768ab291e36f773e4370eb9</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1749655940</data>
+</edge>
+<edge source="Việt Nam" target="Chỉ thị số 299/TTg">
+  <data key="d6">6.0</data>
+  <data key="d7">Chỉ thị số 299/TTg là một sự kiện quan trọng diễn ra tại Việt Nam.</data>
+  <data key="d8">quốc gia,sự kiện</data>
+  <data key="d9">chunk-84a885a6c8cdb51f06c780070d62ed55</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1749655880</data>
+</edge>
+<edge source="Việt Nam" target="Luật Đất Đai">
+  <data key="d6">9.0</data>
+  <data key="d7">Luật Đất Đai is a law that applies to land use and ownership in Việt Nam.</data>
+  <data key="d8">country,land law</data>
+  <data key="d9">chunk-1d0a130dde5b2a8f28df5fbfd9026e1d</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1749655880</data>
+</edge>
+<edge source="Việt Nam" target="Ủy ban nhân dân cấp xã">
+  <data key="d6">8.0</data>
+  <data key="d7">Ủy ban nhân dân cấp xã là cơ quan hành chính nhà nước ở cấp xã của Việt Nam, có trách nhiệm quản lý và sử dụng đất theo quy định của pháp luật.</data>
+  <data key="d8">hành chính,quản lý</data>
+  <data key="d9">chunk-2c36ecaddfd4da25d70ed2760df7e6f1</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1749655940</data>
+</edge>
+<edge source="Việt Nam" target="Tổ chức trong nước">
+  <data key="d6">7.0</data>
+  <data key="d7">Tổ chức trong nước là các tổ chức được thành lập và hoạt động trong phạm vi lãnh thổ Việt Nam, có trách nhiệm sử dụng đất theo quy định của pháp luật.</data>
+  <data key="d8">quản lý,sử dụng đất</data>
+  <data key="d9">chunk-2c36ecaddfd4da25d70ed2760df7e6f1</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1749655940</data>
+</edge>
+<edge source="Việt Nam" target="Tổ chức kinh tế có vốn đầu tư nước ngoài">
+  <data key="d6">7.0</data>
+  <data key="d7">Tổ chức kinh tế có vốn đầu tư nước ngoài là các tổ chức kinh tế được thành lập và hoạt động tại Việt Nam, có vốn đầu tư từ nước ngoài, có trách nhiệm sử dụng đất theo quy định của pháp luật.</data>
+  <data key="d8">quản lý,sử dụng đất</data>
+  <data key="d9">chunk-2c36ecaddfd4da25d70ed2760df7e6f1</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1749655940</data>
+</edge>
+<edge source="Cơ quan nhà nước" target="Pháp luật">
+  <data key="d6">9.0</data>
+  <data key="d7">Cơ quan nhà nước thực hiện quản lý và áp dụng pháp luật về đất đai, đảm bảo tuân thủ và thực hiện đúng quy định.</data>
+  <data key="d8">thực hiện,áp dụng</data>
+  <data key="d9">chunk-14f425d966c49e0fd0eafa96bfab983c</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1749655843</data>
+</edge>
+<edge source="Cơ quan nhà nước" target="Điều 2">
+  <data key="d6">9.0</data>
+  <data key="d7">Cơ quan nhà nước là một trong những đối tượng áp dụng của Điều 2, có trách nhiệm thực hiện quản lý và áp dụng pháp luật về đất đai.</data>
+  <data key="d8">thực hiện,áp dụng</data>
+  <data key="d9">chunk-14f425d966c49e0fd0eafa96bfab983c</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1749655843</data>
+</edge>
+<edge source="Cơ quan nhà nước" target="Tổ chức kinh tế">
+  <data key="d6">7.0</data>
+  <data key="d7">Cơ quan nhà nước quản lý và cấp phép cho tổ chức kinh tế.</data>
+  <data key="d8">cấp phép,quản lý</data>
+  <data key="d9">chunk-815c63419768ab291e36f773e4370eb9</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1749655865</data>
+</edge>
+<edge source="Quản lý nhà nước về đất đai" target="Chủ sở hữu toàn dân">
+  <data key="d6">10.0</data>
+  <data key="d7">Quản lý nhà nước về đất đai là hoạt động đại diện cho chủ sở hữu toàn dân, đảm bảo quyền lợi và quản lý đất đai hiệu quả.</data>
+  <data key="d8">quản lý,đại diện</data>
+  <data key="d9">chunk-14f425d966c49e0fd0eafa96bfab983c</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1749655843</data>
+</edge>
+<edge source="Quản lý nhà nước về đất đai" target="Điều 2">
+  <data key="d6">8.0</data>
+  <data key="d7">Điều 2 quy định về đối tượng áp dụng của quản lý nhà nước về đất đai, bao gồm cơ quan nhà nước, người sử dụng đất và các đối tượng khác.</data>
+  <data key="d8">quy định,áp dụng</data>
+  <data key="d9">chunk-14f425d966c49e0fd0eafa96bfab983c</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1749655843</data>
+</edge>
+<edge source="Quản lý nhà nước về đất đai" target="Đối tượng khác">
+  <data key="d6">7.0</data>
+  <data key="d7">Đối tượng khác có liên quan đến việc quản lý và sử dụng đất đai, phải tuân thủ các quy định và pháp luật về đất đai.</data>
+  <data key="d8">liên quan,tuân thủ</data>
+  <data key="d9">chunk-14f425d966c49e0fd0eafa96bfab983c</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1749655843</data>
+</edge>
+<edge source="Chủ sở hữu toàn dân" target="Toàn dân">
+  <data key="d6">10.0</data>
+  <data key="d7">Toàn dân là chủ sở hữu toàn dân, có quyền sở hữu và quản lý đất đai, được đại diện bởi cơ quan nhà nước.</data>
+  <data key="d8">quản lý,sở hữu</data>
+  <data key="d9">chunk-14f425d966c49e0fd0eafa96bfab983c</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1749655843</data>
+</edge>
+<edge source="Pháp luật" target="Quy định">
+  <data key="d6">9.0</data>
+  <data key="d7">Quy định là một phần của pháp luật, cung cấp các quy tắc và luật lệ cụ thể cho việc quản lý và sử dụng đất đai.</data>
+  <data key="d8">luật lệ,quy định</data>
+  <data key="d9">chunk-14f425d966c49e0fd0eafa96bfab983c</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1749655843</data>
+</edge>
+<edge source="Pháp luật" target="Đối tượng khác">
+  <data key="d6">8.0</data>
+  <data key="d7">Đối tượng khác phải tuân thủ pháp luật về đất đai, đảm bảo sử dụng đất đai theo quy định và đúng pháp luật.</data>
+  <data key="d8">thực hiện,tuân thủ</data>
+  <data key="d9">chunk-14f425d966c49e0fd0eafa96bfab983c</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1749655843</data>
+</edge>
+<edge source="Pháp luật" target="Quản lý đất">
+  <data key="d6">10.0</data>
+  <data key="d7">Pháp luật quy định và điều chỉnh các hoạt động quản lý đất.</data>
+  <data key="d8">pháp luật,quản lý đất</data>
+  <data key="d9">chunk-df1cf85b8f6adb27f254ca957d057cb7</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1749655983</data>
+</edge>
+<edge source="Tổ chức kinh tế" target="Luật Đầu tư">
+  <data key="d6">9.0</data>
+  <data key="d7">Luật Đầu tư quy định về tổ chức kinh tế.</data>
+  <data key="d8">pháp luật,quản lý kinh tế</data>
+  <data key="d9">chunk-815c63419768ab291e36f773e4370eb9</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1749655865</data>
+</edge>
+<edge source="Tổ chức kinh tế" target="Tổ chức tôn giáo">
+  <data key="d6">6.0</data>
+  <data key="d7">Tổ chức kinh tế và tổ chức tôn giáo đều được giao đất, cho thuê đất, công nhận quyền sử dụng đất.</data>
+  <data key="d8">quyền lợi,đối tượng sử dụng đất</data>
+  <data key="d9">chunk-815c63419768ab291e36f773e4370eb9</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1749655865</data>
+</edge>
+<edge source="Tổ chức kinh tế" target="Giấy chứng nhận quyền sử dụng đất">
+  <data key="d6">7.0</data>
+  <data key="d7">Tổ chức kinh tế được cấp Giấy chứng nhận quyền sử dụng đất khi được giao đất, cho thuê đất, công nhận quyền sử dụng đất.</data>
+  <data key="d8">giấy tờ chứng minh,quyền lợi</data>
+  <data key="d9">chunk-815c63419768ab291e36f773e4370eb9</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1749655865</data>
+</edge>
+<edge source="Tổ chức kinh tế" target="Dự án đầu tư">
+  <data key="d6">8.0</data>
+  <data key="d7">Tổ chức kinh tế thực hiện dự án đầu tư trên đất được giao quản lý.</data>
+  <data key="d8">kinh tế,đầu tư</data>
+  <data key="d9">chunk-df1cf85b8f6adb27f254ca957d057cb7</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1749655983</data>
+</edge>
+<edge source="Tổ chức tôn giáo" target="Cá nhân">
+  <data key="d6">6.0</data>
+  <data key="d7">Tổ chức tôn giáo và cá nhân đều được giao đất, cho thuê đất, công nhận quyền sử dụng đất.</data>
+  <data key="d8">quyền lợi,đối tượng sử dụng đất</data>
+  <data key="d9">chunk-815c63419768ab291e36f773e4370eb9</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1749655865</data>
+</edge>
+<edge source="Cá nhân" target="Giấy chứng nhận quyền sử dụng đất">
+  <data key="d6">7.0</data>
+  <data key="d7">Cá nhân được cấp Giấy chứng nhận quyền sử dụng đất khi được giao đất, cho thuê đất, công nhận quyền sử dụng đất.</data>
+  <data key="d8">giấy tờ chứng minh,quyền lợi</data>
+  <data key="d9">chunk-815c63419768ab291e36f773e4370eb9</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1749655865</data>
+</edge>
+<edge source="Cá nhân" target="Cộng đồng dân cư">
+  <data key="d6">6.0</data>
+  <data key="d7">Cá nhân là thành viên của cộng đồng dân cư, có quyền sử dụng đất chung, thể hiện mối quan hệ giữa cá nhân và cộng đồng.</data>
+  <data key="d8">cộng đồng,thành viên</data>
+  <data key="d9">chunk-7927a9a5c3f169a5b89438b2254e90b6</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1749655880</data>
+</edge>
+<edge source="Cộng đồng dân cư" target="Ủy ban nhân dân cấp xã">
+  <data key="d6">8.0</data>
+  <data key="d7">Ủy ban nhân dân cấp xã có trách nhiệm xác nhận giấy tờ về đất sử dụng chung cho cộng đồng dân cư, thể hiện mối quan hệ giữa cơ quan hành chính và cộng đồng.</data>
+  <data key="d8">cộng đồng,hành chính</data>
+  <data key="d9">chunk-7927a9a5c3f169a5b89438b2254e90b6</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1749655880</data>
+</edge>
+<edge source="Cộng đồng dân cư" target="Đất sử dụng chung">
+  <data key="d6">7.0</data>
+  <data key="d7">Cộng đồng dân cư có quyền sử dụng đất chung, thể hiện mối quan hệ giữa cộng đồng và đất sử dụng chung.</data>
+  <data key="d8">cộng đồng,sử dụng đất</data>
+  <data key="d9">chunk-7927a9a5c3f169a5b89438b2254e90b6</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1749655880</data>
+</edge>
+<edge source="Cộng đồng dân cư" target="Hộ gia đình">
+  <data key="d6">6.0</data>
+  <data key="d7">Hộ gia đình là đơn vị gia đình sống trong một khu vực địa lý nhất định, có quyền sử dụng đất chung, thể hiện mối quan hệ giữa hộ gia đình và cộng đồng.</data>
+  <data key="d8">cộng đồng,đơn vị gia đình</data>
+  <data key="d9">chunk-7927a9a5c3f169a5b89438b2254e90b6</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1749655880</data>
+</edge>
+<edge source="Cộng đồng dân cư" target="Khu vực địa lý">
+  <data key="d6">7.0</data>
+  <data key="d7">Khu vực địa lý là vùng lãnh thổ nơi cộng đồng dân cư sống và sử dụng đất chung, thể hiện mối quan hệ giữa khu vực địa lý và cộng đồng.</data>
+  <data key="d8">cộng đồng,vùng lãnh thổ</data>
+  <data key="d9">chunk-7927a9a5c3f169a5b89438b2254e90b6</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1749655880</data>
+</edge>
+<edge source="Cộng đồng dân cư" target="Trưởng thôn, làng, ấp, bản, bon, buôn, phum, sóc, tổ dân phố và điểm dân cư tương tự">
+  <data key="d6">7.0</data>
+  <data key="d7">Trưởng thôn, làng, ấp, bản, bon, buôn, phum, sóc, tổ dân phố và điểm dân cư tương tự là người đại diện cho cộng đồng dân cư, có trách nhiệm quản lý và sử dụng đất theo quy định của pháp luật.</data>
+  <data key="d8">quản lý,đại diện</data>
+  <data key="d9">chunk-2c36ecaddfd4da25d70ed2760df7e6f1</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1749655940</data>
+</edge>
+<edge source="Cộng đồng dân cư" target="Đất">
+  <data key="d6">8.0</data>
+  <data key="d7">Cộng đồng dân cư được giao quản lý đất cho mục đích công cộng.</data>
+  <data key="d8">giao quản lý,quản lý đất</data>
+  <data key="d9">chunk-df1cf85b8f6adb27f254ca957d057cb7</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1749655983</data>
+</edge>
+<edge source="Cộng đồng dân cư" target="Người đại diện cho cộng đồng dân cư">
+  <data key="d6">9.0</data>
+  <data key="d7">Người đại diện cho cộng đồng dân cư là người chịu trách nhiệm đối với đất được giao cho cộng đồng dân cư quản lý.</data>
+  <data key="d8">quản lý đất,trách nhiệm</data>
+  <data key="d9">chunk-df1cf85b8f6adb27f254ca957d057cb7</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1749655983</data>
+</edge>
+<edge source="Giấy chứng nhận quyền sử dụng đất" target="Cơ quan nhà nước có thẩm quyền">
+  <data key="d6">8.0</data>
+  <data key="d7">Giấy chứng nhận quyền sử dụng đất được cấp bởi cơ quan nhà nước có thẩm quyền.</data>
+  <data key="d8">government certification,land ownership</data>
+  <data key="d9">chunk-32fa20132f34131ad8d6a1dbf22a56db</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1749655900</data>
+</edge>
+<edge source="Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất" target="Ủy ban nhân dân cấp xã">
+  <data key="d6">9.0</data>
+  <data key="d7">Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất được cấp dựa trên xác nhận của Ủy ban nhân dân cấp xã, thể hiện mối quan hệ giữa giấy tờ pháp lý và cơ quan hành chính.</data>
+  <data key="d8">hành chính,pháp lý</data>
+  <data key="d9">chunk-7927a9a5c3f169a5b89438b2254e90b6</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1749655880</data>
+</edge>
+<edge source="Tổ chức nước ngoài có chức năng ngoại giao" target="Cơ quan đại diện ngoại giao">
+  <data key="d6">8.0</data>
+  <data key="d7">Cơ quan đại diện ngoại giao là cơ quan đại diện của tổ chức nước ngoài có chức năng ngoại giao tại Việt Nam.</data>
+  <data key="d8">chức năng,hoạt động ngoại giao</data>
+  <data key="d9">chunk-815c63419768ab291e36f773e4370eb9</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1749655865</data>
+</edge>
+<edge source="Tổ chức nước ngoài có chức năng ngoại giao" target="Cơ quan lãnh sự">
+  <data key="d6">8.0</data>
+  <data key="d7">Cơ quan lãnh sự là cơ quan lãnh sự của tổ chức nước ngoài có chức năng ngoại giao tại Việt Nam.</data>
+  <data key="d8">chức năng,hoạt động ngoại giao</data>
+  <data key="d9">chunk-815c63419768ab291e36f773e4370eb9</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1749655865</data>
+</edge>
+<edge source="Tổ chức nước ngoài có chức năng ngoại giao" target="Cơ quan đại diện khác của nước ngoài có chức năng ngoại giao">
+  <data key="d6">8.0</data>
+  <data key="d7">Cơ quan đại diện khác của nước ngoài có chức năng ngoại giao là cơ quan đại diện khác của tổ chức nước ngoài có chức năng ngoại giao tại Việt Nam.</data>
+  <data key="d8">chức năng,hoạt động ngoại giao</data>
+  <data key="d9">chunk-815c63419768ab291e36f773e4370eb9</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1749655865</data>
+</edge>
+<edge source="Tổ chức nước ngoài có chức năng ngoại giao" target="Người đứng đầu của tổ chức nước ngoài có chức năng ngoại giao">
+  <data key="d6">7.0</data>
+  <data key="d7">Người đứng đầu của tổ chức nước ngoài có chức năng ngoại giao là người có trách nhiệm quản lý và sử dụng đất của tổ chức mình.</data>
+  <data key="d8">quản lý,trách nhiệm</data>
+  <data key="d9">chunk-2c36ecaddfd4da25d70ed2760df7e6f1</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1749655940</data>
+</edge>
+<edge source="Tổ chức kinh tế có vốn đầu tư nước ngoài" target="Người đại diện theo pháp luật của tổ chức kinh tế có vốn đầu tư nước ngoài">
+  <data key="d6">7.0</data>
+  <data key="d7">Người đại diện theo pháp luật của tổ chức kinh tế có vốn đầu tư nước ngoài là người có trách nhiệm quản lý và sử dụng đất của tổ chức mình.</data>
+  <data key="d8">quản lý,trách nhiệm</data>
+  <data key="d9">chunk-2c36ecaddfd4da25d70ed2760df7e6f1</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1749655940</data>
+</edge>
+<edge source="Nhà nước Việt Nam dân chủ Cộng hòa" target="Chính phủ Cách mạng lâm thời Cộng hòa miền Nam Việt Nam">
+  <data key="d6">8.0</data>
+  <data key="d7">Cả hai đều là chính quyền đã cấp giấy tờ về quyền sử dụng đất trong quá trình thực hiện chính sách đất đai.</data>
+  <data key="d8">chính quyền,chính sách đất đai</data>
+  <data key="d9">chunk-84a885a6c8cdb51f06c780070d62ed55</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1749655880</data>
+</edge>
+<edge source="Tòa án thuộc chế độ cũ" target="Cơ quan thuộc chế độ cũ">
+  <data key="d6">7.0</data>
+  <data key="d7">Cả hai đều là cơ quan đã cấp giấy tờ về quyền sử dụng đất.</data>
+  <data key="d8">cơ quan,giấy tờ</data>
+  <data key="d9">chunk-84a885a6c8cdb51f06c780070d62ed55</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1749655880</data>
+</edge>
+<edge source="Ủy ban nhân dân cấp xã" target="Ủy ban nhân dân cấp huyện">
+  <data key="d6">8.0</data>
+  <data key="d7">Cả hai đều là cơ quan có thẩm quyền xác nhận giấy tờ về quyền sử dụng đất.</data>
+  <data key="d8">cơ quan,thẩm quyền</data>
+  <data key="d9">chunk-84a885a6c8cdb51f06c780070d62ed55</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1749655880</data>
+</edge>
+<edge source="Ủy ban nhân dân cấp xã" target="Giấy tờ xác nhận">
+  <data key="d6">8.0</data>
+  <data key="d7">Ủy ban nhân dân cấp xã cấp giấy tờ xác nhận về đất sử dụng chung cho cộng đồng dân cư, thể hiện mối quan hệ giữa cơ quan hành chính và giấy tờ pháp lý.</data>
+  <data key="d8">hành chính,pháp lý</data>
+  <data key="d9">chunk-7927a9a5c3f169a5b89438b2254e90b6</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1749655880</data>
+</edge>
+<edge source="Ủy ban nhân dân cấp xã" target="Chủ tịch Ủy ban nhân dân cấp xã">
+  <data key="d6">18.0</data>
+  <data key="d7">Chủ tịch Ủy ban nhân dân cấp xã là người đứng đầu Ủy ban nhân dân cấp xã, có trách nhiệm quản lý và sử dụng đất nông nghiệp và đất phi nông nghiệp cho mục đích công ích.&lt;SEP&gt;Chủ tịch Ủy ban nhân dân cấp xã là người đứng đầu Ủy ban nhân dân cấp xã.</data>
+  <data key="d8">hành chính,lãnh đạo,quản lý</data>
+  <data key="d9">chunk-2c36ecaddfd4da25d70ed2760df7e6f1&lt;SEP&gt;chunk-df1cf85b8f6adb27f254ca957d057cb7</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1749655983</data>
+</edge>
+<edge source="Ủy ban nhân dân cấp xã" target="Đất">
+  <data key="d6">9.0</data>
+  <data key="d7">Ủy ban nhân dân cấp xã chịu trách nhiệm đối với việc quản lý đất sử dụng vào mục đích công cộng.</data>
+  <data key="d8">quản lý đất,trách nhiệm</data>
+  <data key="d9">chunk-df1cf85b8f6adb27f254ca957d057cb7</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1749655983</data>
+</edge>
+<edge source="Thủ tướng Chính phủ" target="Bộ trưởng Bộ Quốc phòng">
+  <data key="d6">9.0</data>
+  <data key="d7">Cả hai đều là người đã ban hành chỉ thị quan trọng liên quan đến quyền sử dụng đất.</data>
+  <data key="d8">chính phủ,chỉ thị</data>
+  <data key="d9">chunk-84a885a6c8cdb51f06c780070d62ed55</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1749655880</data>
+</edge>
+<edge source="Cán bộ, chiến sĩ" target="Khu kinh tế mới">
+  <data key="d6">8.0</data>
+  <data key="d7">Cán bộ, chiến sĩ được giao đất để làm nhà ở tại khu kinh tế mới.</data>
+  <data key="d8">cán bộ,khu kinh tế mới</data>
+  <data key="d9">chunk-84a885a6c8cdb51f06c780070d62ed55</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1749655880</data>
+</edge>
+<edge source="Bằng khoán điền thổ" target="Văn tự đoạn mãi bất động sản">
+  <data key="d6">7.0</data>
+  <data key="d7">Cả hai đều là loại giấy tờ được đề cập trong văn bản liên quan đến quyền sử dụng đất.</data>
+  <data key="d8">giấy tờ,đất đai</data>
+  <data key="d9">chunk-84a885a6c8cdb51f06c780070d62ed55</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1749655880</data>
+</edge>
+<edge source="Giấy phép cho xây cất nhà ở" target="Sổ đăng ký ruộng đất">
+  <data key="d6">7.0</data>
+  <data key="d7">Cả hai đều là loại giấy tờ được đề cập trong văn bản liên quan đến quyền sử dụng đất.</data>
+  <data key="d8">giấy tờ,đất đai</data>
+  <data key="d9">chunk-84a885a6c8cdb51f06c780070d62ed55</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1749655880</data>
+</edge>
+<edge source="Ủy Ban Nhân Dân" target="Cán Bộ, Công Nhân Viên">
+  <data key="d6">8.0</data>
+  <data key="d7">Ủy Ban Nhân Dân is responsible for managing land allocation for Cán Bộ, Công Nhân Viên.</data>
+  <data key="d8">government agency,land management</data>
+  <data key="d9">chunk-1d0a130dde5b2a8f28df5fbfd9026e1d</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1749655880</data>
+</edge>
+<edge source="Ủy Ban Nhân Dân" target="Giấy Chứng Nhận Quyền Sử Dụng Đất">
+  <data key="d6">8.0</data>
+  <data key="d7">Giấy Chứng Nhận Quyền Sử Dụng Đất is a document issued by Ủy Ban Nhân Dân to certify land use rights.</data>
+  <data key="d8">government agency,land use rights</data>
+  <data key="d9">chunk-1d0a130dde5b2a8f28df5fbfd9026e1d</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1749655880</data>
+</edge>
+<edge source="Nông, Lâm Trường Quốc Doanh" target="Tòa Án">
+  <data key="d6">6.0</data>
+  <data key="d7">Nông, Lâm Trường Quốc Doanh may be involved in disputes related to land use that are resolved by Tòa Án.</data>
+  <data key="d8">court resolution,land dispute</data>
+  <data key="d9">chunk-1d0a130dde5b2a8f28df5fbfd9026e1d</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1749655880</data>
+</edge>
+<edge source="Nông, Lâm Trường Quốc Doanh" target="Đất Nông Nghiệp">
+  <data key="d6">9.0</data>
+  <data key="d7">Nông, Lâm Trường Quốc Doanh manages Đất Nông Nghiệp for agricultural purposes.</data>
+  <data key="d8">agriculture,land management</data>
+  <data key="d9">chunk-1d0a130dde5b2a8f28df5fbfd9026e1d</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1749655880</data>
+</edge>
+<edge source="Tòa Án" target="Cơ Quan Thi Hành Án">
+  <data key="d6">8.0</data>
+  <data key="d7">Tòa Án and Cơ Quan Thi Hành Án work together to resolve disputes related to land use.</data>
+  <data key="d8">dispute resolution,law enforcement</data>
+  <data key="d9">chunk-1d0a130dde5b2a8f28df5fbfd9026e1d</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1749655880</data>
+</edge>
+<edge source="Cơ Quan Thi Hành Án" target="Trọng Tài Thương Mại Việt Nam">
+  <data key="d6">14.0</data>
+  <data key="d7">Cơ Quan Thi Hành Án and Trọng Tài Thương Mại Việt Nam may work together to resolve disputes related to land use and trade.&lt;SEP&gt;Trọng Tài Thương Mại Việt Nam and Cơ Quan Thi Hành Án may work together to resolve disputes related to trade and commerce.</data>
+  <data key="d8">dispute resolution,trade</data>
+  <data key="d9">chunk-1d0a130dde5b2a8f28df5fbfd9026e1d</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1749655880</data>
+</edge>
+<edge source="Luật Đất Đai" target="Người Sử Dụng Đất">
+  <data key="d6">8.0</data>
+  <data key="d7">Luật Đất Đai quy định và quản lý việc sử dụng đất đai của Người Sử Dụng Đất.</data>
+  <data key="d8">quy định,quản lý</data>
+  <data key="d9">chunk-0af8c1d084adb05c320cf722f9de8fd6</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1749655926</data>
+</edge>
+<edge source="Luật Đất Đai" target="Tài Nguyên">
+  <data key="d6">8.0</data>
+  <data key="d7">Luật Đất Đai quy định và quản lý việc sử dụng Tài Nguyên trên Đất Đai.</data>
+  <data key="d8">quy định,quản lý</data>
+  <data key="d9">chunk-0af8c1d084adb05c320cf722f9de8fd6</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1749655926</data>
+</edge>
+<edge source="Hộ Gia Đình, Cá Nhân" target="Đất Nông Nghiệp">
+  <data key="d6">7.0</data>
+  <data key="d7">Hộ Gia Đình, Cá Nhân may use Đất Nông Nghiệp for agricultural purposes.</data>
+  <data key="d8">agriculture,land use</data>
+  <data key="d9">chunk-1d0a130dde5b2a8f28df5fbfd9026e1d</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1749655880</data>
+</edge>
+<edge source="Cộng Đồng Dân Cư" target="Đình, Đền, Miếu, Am">
+  <data key="d6">8.0</data>
+  <data key="d7">Cộng Đồng Dân Cư may use Đình, Đền, Miếu, Am for communal or religious purposes.</data>
+  <data key="d8">community,religion</data>
+  <data key="d9">chunk-1d0a130dde5b2a8f28df5fbfd9026e1d</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1749655880</data>
+</edge>
+<edge source="Luật này" target="Điều 137">
+  <data key="d6">7.0</data>
+  <data key="d7">Điều 137 là một phần của Luật này, quy định về giấy tờ về quyền sử dụng đất.</data>
+  <data key="d8">land regulation,law component</data>
+  <data key="d9">chunk-32fa20132f34131ad8d6a1dbf22a56db</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1749655900</data>
+</edge>
+<edge source="Luật này" target="Phân loại đất">
+  <data key="d6">9.0</data>
+  <data key="d7">Phân loại đất được quy định trong Luật này.</data>
+  <data key="d8">land classification,legal framework</data>
+  <data key="d9">chunk-32fa20132f34131ad8d6a1dbf22a56db</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1749655900</data>
+</edge>
+<edge source="Luật này" target="Cộng hòa xã hội chủ nghĩa Việt Nam">
+  <data key="d6">8.0</data>
+  <data key="d7">Luật này được áp dụng tại Cộng hòa xã hội chủ nghĩa Việt Nam.</data>
+  <data key="d8">phạm vi áp dụng,quốc gia</data>
+  <data key="d9">chunk-a04ff08bad380dd4135e8de69ff04a3f</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1749655958</data>
+</edge>
+<edge source="Cơ quan nhà nước có thẩm quyền" target="Quyết định giao đất">
+  <data key="d6">8.0</data>
+  <data key="d7">Quyết định giao đất được thực hiện bởi cơ quan nhà nước có thẩm quyền.</data>
+  <data key="d8">government decision,land allocation</data>
+  <data key="d9">chunk-32fa20132f34131ad8d6a1dbf22a56db</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1749655900</data>
+</edge>
+<edge source="Cơ quan nhà nước có thẩm quyền" target="Quyết định cho thuê đất">
+  <data key="d6">8.0</data>
+  <data key="d7">Quyết định cho thuê đất được thực hiện bởi cơ quan nhà nước có thẩm quyền.</data>
+  <data key="d8">government decision,land leasing</data>
+  <data key="d9">chunk-32fa20132f34131ad8d6a1dbf22a56db</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1749655900</data>
+</edge>
+<edge source="Cơ quan nhà nước có thẩm quyền" target="Quyết định cho phép chuyển mục đích sử dụng đất">
+  <data key="d6">8.0</data>
+  <data key="d7">Quyết định cho phép chuyển mục đích sử dụng đất được thực hiện bởi cơ quan nhà nước có thẩm quyền.</data>
+  <data key="d8">government decision,land use change</data>
+  <data key="d9">chunk-32fa20132f34131ad8d6a1dbf22a56db</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1749655900</data>
+</edge>
+<edge source="Cơ quan nhà nước có thẩm quyền" target="Quỹ đất đã thu hồi">
+  <data key="d6">10.0</data>
+  <data key="d7">Cơ quan nhà nước có thẩm quyền quyết định việc thu hồi đất.</data>
+  <data key="d8">quyết định,quản lý đất</data>
+  <data key="d9">chunk-df1cf85b8f6adb27f254ca957d057cb7</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1749655983</data>
+</edge>
+<edge source="Giấy tờ về quyền sử dụng đất" target="Phân loại đất">
+  <data key="d6">7.0</data>
+  <data key="d7">Giấy tờ về quyền sử dụng đất được sử dụng để phân loại đất.</data>
+  <data key="d8">documentation,land classification</data>
+  <data key="d9">chunk-32fa20132f34131ad8d6a1dbf22a56db</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1749655900</data>
+</edge>
+<edge source="Nhà Nước" target="Cơ Quan Có Thẩm Quyền">
+  <data key="d6">8.0</data>
+  <data key="d7">Nhà Nước ủy quyền cho cơ quan có thẩm quyền để quản lý và thực hiện quy định của pháp luật về đất đai.</data>
+  <data key="d8">quản lý nhà nước,ủy quyền</data>
+  <data key="d9">chunk-83d36791502004981877f3d273f70fde</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1749655922</data>
+</edge>
+<edge source="Nhà Nước" target="Người Sử Dụng Đất">
+  <data key="d6">8.0</data>
+  <data key="d7">Nhà Nước là đại diện chủ sở hữu về đất đai, có quyền hạn và trách nhiệm trong quản lý đất đai, và người sử dụng đất phải tuân thủ quy định của pháp luật.</data>
+  <data key="d8">quản lý nhà nước,sử dụng đất</data>
+  <data key="d9">chunk-83d36791502004981877f3d273f70fde</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1749655922</data>
+</edge>
+<edge source="Đồng Bào Dân Tộc Thiểu Số" target="Chính Sách Đất Đai">
+  <data key="d6">9.0</data>
+  <data key="d7">Đồng bào dân tộc thiểu số được hưởng chính sách về đất đai đặc biệt, nhằm đảm bảo quyền lợi và sự công bằng.</data>
+  <data key="d8">chính sách đặc biệt,công bằng xã hội</data>
+  <data key="d9">chunk-83d36791502004981877f3d273f70fde</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1749655922</data>
+</edge>
+<edge source="Cơ Quan Có Thẩm Quyền" target="Pháp Luật Về Đất Đai">
+  <data key="d6">8.0</data>
+  <data key="d7">Cơ quan có thẩm quyền có trách nhiệm thực hiện và quản lý pháp luật về đất đai, đảm bảo sự công bằng và hiệu quả.</data>
+  <data key="d8">hiệu quả,quản lý pháp luật</data>
+  <data key="d9">chunk-83d36791502004981877f3d273f70fde</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1749655922</data>
+</edge>
+<edge source="Người Sử Dụng Đất" target="Pháp Luật Về Đất Đai">
+  <data key="d6">7.0</data>
+  <data key="d7">Người sử dụng đất phải tuân thủ pháp luật về đất đai, thực hiện đúng quy định và nghĩa vụ của mình.</data>
+  <data key="d8">sử dụng đất,tuân thủ pháp luật</data>
+  <data key="d9">chunk-83d36791502004981877f3d273f70fde</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1749655922</data>
+</edge>
+<edge source="Người Sử Dụng Đất" target="Nghĩa Vụ Tài Chính">
+  <data key="d6">7.0</data>
+  <data key="d7">Nghĩa vụ tài chính là trách nhiệm của người sử dụng đất, và người sử dụng đất phải thực hiện nghĩa vụ tài chính của mình theo quy định của pháp luật.</data>
+  <data key="d8">nghĩa vụ tài chính,sử dụng đất</data>
+  <data key="d9">chunk-83d36791502004981877f3d273f70fde</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1749655922</data>
+</edge>
+<edge source="Người Sử Dụng Đất" target="Môi Trường">
+  <data key="d6">9.0</data>
+  <data key="d7">Người Sử Dụng Đất có trách nhiệm bảo vệ Môi Trường và sử dụng đất đai một cách bền vững.</data>
+  <data key="d8">bảo vệ,sử dụng bền vững</data>
+  <data key="d9">chunk-0af8c1d084adb05c320cf722f9de8fd6</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1749655926</data>
+</edge>
+<edge source="Người Sử Dụng Đất" target="Tài Nguyên">
+  <data key="d6">9.0</data>
+  <data key="d7">Người Sử Dụng Đất có trách nhiệm bảo vệ và sử dụng Tài Nguyên một cách bền vững.</data>
+  <data key="d8">bảo vệ,sử dụng bền vững</data>
+  <data key="d9">chunk-0af8c1d084adb05c320cf722f9de8fd6</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1749655926</data>
+</edge>
+<edge source="Chính Sách Đất Đai" target="Pháp Luật Về Đất Đai">
+  <data key="d6">9.0</data>
+  <data key="d7">Chính sách đất đai là một phần của pháp luật về đất đai, quy định các nguyên tắc và quy định cho việc quản lý và sử dụng đất đai.</data>
+  <data key="d8">chính sách,pháp luật</data>
+  <data key="d9">chunk-83d36791502004981877f3d273f70fde</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1749655922</data>
+</edge>
+<edge source="Quy Định Của Pháp Luật" target="Hành Vi Vi Phạm">
+  <data key="d6">8.0</data>
+  <data key="d7">Quy định của pháp luật là cơ sở để xác định hành vi vi phạm trong lĩnh vực đất đai.</data>
+  <data key="d8">quy định,vi phạm</data>
+  <data key="d9">chunk-83d36791502004981877f3d273f70fde</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1749655922</data>
+</edge>
+<edge source="Hành Vi Vi Phạm" target="Lợi Ich Funktion">
+  <data key="d6">9.0</data>
+  <data key="d7">Lợi ích chức vụ là một loại hành vi vi phạm trong lĩnh vực đất đai, khi người có chức vụ, quyền hạn sử dụng chức vụ để làm trái quy định của pháp luật.</data>
+  <data key="d8">lợi ích chức vụ,vi phạm</data>
+  <data key="d9">chunk-83d36791502004981877f3d273f70fde</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1749655922</data>
+</edge>
+<edge source="Thông Tin Đất Đai" target="Quyền Sử Dụng Đất">
+  <data key="d6">8.0</data>
+  <data key="d7">Thông tin đất đai là cơ sở để thực hiện quyền sử dụng đất, và người sử dụng đất phải có thông tin chính xác về đất đai để thực hiện quyền của mình.</data>
+  <data key="d8">sử dụng đất,thông tin</data>
+  <data key="d9">chunk-83d36791502004981877f3d273f70fde</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1749655922</data>
+</edge>
+<edge source="Môi Trường" target="Biến Đổi Khí Hậu">
+  <data key="d6">7.0</data>
+  <data key="d7">Biến Đổi Khí Hậu ảnh hưởng đến Môi Trường và cần được xem xét trong việc sử dụng đất đai.</data>
+  <data key="d8">bảo vệ,ảnh hưởng</data>
+  <data key="d9">chunk-0af8c1d084adb05c320cf722f9de8fd6</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1749655926</data>
+</edge>
+<edge source="Môi Trường" target="Thuốc Bảo Vệ Thực Vật">
+  <data key="d6">6.0</data>
+  <data key="d7">Thuốc Bảo Vệ Thực Vật có thể gây ô nhiễm và ảnh hưởng đến Môi Trường nếu không được sử dụng đúng cách.</data>
+  <data key="d8">bảo vệ,ô nhiễm</data>
+  <data key="d9">chunk-0af8c1d084adb05c320cf722f9de8fd6</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1749655926</data>
+</edge>
+<edge source="Môi Trường" target="Phân Hóa Học">
+  <data key="d6">6.0</data>
+  <data key="d7">Phân Hóa Học có thể gây ô nhiễm và ảnh hưởng đến Môi Trường nếu không được sử dụng đúng cách.</data>
+  <data key="d8">bảo vệ,ô nhiễm</data>
+  <data key="d9">chunk-0af8c1d084adb05c320cf722f9de8fd6</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1749655926</data>
+</edge>
+<edge source="Đất Đai" target="Tài Nguyên">
+  <data key="d6">8.0</data>
+  <data key="d7">Tài Nguyên là nguồn lực hoặc nguyên liệu được sử dụng để phát triển kinh tế và xã hội trên Đất Đai.</data>
+  <data key="d8">nguồn lực,phát triển</data>
+  <data key="d9">chunk-0af8c1d084adb05c320cf722f9de8fd6</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1749655926</data>
+</edge>
+<edge source="Bề Mặt Đất" target="Lòng Đất">
+  <data key="d6">7.0</data>
+  <data key="d7">Bề Mặt Đất và Lòng Đất là hai khu vực hoặc không gian khác nhau trên và dưới lòng đất.</data>
+  <data key="d8">khu vực,không gian</data>
+  <data key="d9">chunk-0af8c1d084adb05c320cf722f9de8fd6</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1749655926</data>
+</edge>
+<edge source="Tổ chức trong nước" target="Người đại diện theo pháp luật của tổ chức trong nước">
+  <data key="d6">7.0</data>
+  <data key="d7">Người đại diện theo pháp luật của tổ chức trong nước là người có trách nhiệm quản lý và sử dụng đất của tổ chức mình.</data>
+  <data key="d8">quản lý,trách nhiệm</data>
+  <data key="d9">chunk-2c36ecaddfd4da25d70ed2760df7e6f1</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1749655940</data>
+</edge>
+<edge source="Tổ chức trong nước" target="Công trình công cộng">
+  <data key="d6">7.0</data>
+  <data key="d7">Tổ chức trong nước được giao quản lý công trình công cộng.</data>
+  <data key="d8">giao quản lý,quản lý công trình</data>
+  <data key="d9">chunk-df1cf85b8f6adb27f254ca957d057cb7</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1749655983</data>
+</edge>
+<edge source="Tổ chức trong nước" target="Người đại diện của tổ chức">
+  <data key="d6">9.0</data>
+  <data key="d7">Người đại diện của tổ chức là người chịu trách nhiệm đối với việc quản lý đất trong các trường hợp được giao quản lý.</data>
+  <data key="d8">quản lý đất,trách nhiệm</data>
+  <data key="d9">chunk-df1cf85b8f6adb27f254ca957d057cb7</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1749655983</data>
+</edge>
+<edge source="Người đại diện tổ chức tôn giáo, tổ chức tôn giáo trực thuộc" target="Tổ chức tôn giáo, tổ chức tôn giáo trực thuộc">
+  <data key="d6">7.0</data>
+  <data key="d7">Người đại diện tổ chức tôn giáo, tổ chức tôn giáo trực thuộc là người đại diện cho tổ chức tôn giáo, có trách nhiệm quản lý và sử dụng đất theo quy định của pháp luật.</data>
+  <data key="d8">quản lý,trách nhiệm</data>
+  <data key="d9">chunk-2c36ecaddfd4da25d70ed2760df7e6f1</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1749655940</data>
+</edge>
+<edge source="Cộng hòa xã hội chủ nghĩa Việt Nam" target="Lãnh thổ của nước Cộng hòa xã hội chủ nghĩa Việt Nam">
+  <data key="d6">7.0</data>
+  <data key="d7">Lãnh thổ của nước Cộng hòa xã hội chủ nghĩa Việt Nam là một phần của quốc gia này.</data>
+  <data key="d8">lãnh thổ,phần của quốc gia</data>
+  <data key="d9">chunk-a04ff08bad380dd4135e8de69ff04a3f</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1749655958</data>
+</edge>
+</graph></graphml>

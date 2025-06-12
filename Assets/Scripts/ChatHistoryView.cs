@@ -18,7 +18,7 @@ public class ChatHistoryView : MonoBehaviour
 
     public void Update()
     {
-        if (Input.GetKeyUp(KeyCode.Keypad0))
+        if (Input.GetKeyUp(KeyCode.Delete))
         {
             onLoadHistory.Invoke();
         }

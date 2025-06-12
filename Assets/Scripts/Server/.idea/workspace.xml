@@ -5,15 +5,32 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3e633af8-d9fa-490f-b407-31f8578d64f0" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/Server.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Server.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/ai_toolkit.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Modelfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset/corpus.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset/dev_rel_docs.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset/queries.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/digital_human_client.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Art/Characters/Ida Faber/Shaders/URPDefaultResources/UniversalRenderPipelineAsset.asset" beforeDir="false" afterPath="$PROJECT_DIR$/../../Art/Characters/Ida Faber/Shaders/URPDefaultResources/UniversalRenderPipelineAsset.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Scenes/Scene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/../../Scenes/Scene.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ChatHistoryView.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../ChatHistoryView.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Digital_Humans_Version_2.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Digital_Humans_Version_2.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/chat_history.jsonl" beforeDir="false" afterPath="$PROJECT_DIR$/result/chat_history.jsonl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Settings/UniversalRenderPipelineGlobalSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/../../Settings/UniversalRenderPipelineGlobalSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ProjectSettings/EditorBuildSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ProjectSettings/EditorBuildSettings.asset" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="FlaskConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform)); sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo, NoAppException&#10;for module in [&quot;main.py&quot;, &quot;wsgi.py&quot;, &quot;app.py&quot;]:&#10;    try: locals().update(ScriptInfo(app_import_path=module, create_app=None).load_app().make_shell_context()); print(&quot;\nFlask App: %s&quot; % app.import_name); break&#10;    except NoAppException: pass">
     <envs>
@@ -40,8 +57,11 @@
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
     &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.digital_human_client.executor&quot;: &quot;Run&quot;,
+    &quot;Python.mcp_client.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;last_opened_file_path&quot;: &quot;D:/Unity/DIGITAL_HUMANS/Assets/Scripts/Server&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
@@ -52,6 +72,12 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Unity\DIGITAL_HUMANS\Assets\Scripts\Server\dataset" />
+      <recent name="D:\Unity\DIGITAL_HUMANS\Assets\Scripts\Server" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -72,10 +98,16 @@
       <workItem from="1749527235490" duration="2173000" />
       <workItem from="1749537425574" duration="1297000" />
       <workItem from="1749538744655" duration="10757000" />
+      <workItem from="1749652171675" duration="11391000" />
+      <workItem from="1749692696060" duration="1412000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Server$mcp_client.coverage" NAME="mcp_client Coverage Results" MODIFIED="1749660800088" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Server$digital_human_client.coverage" NAME="digital_human_client Coverage Results" MODIFIED="1749659673540" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
