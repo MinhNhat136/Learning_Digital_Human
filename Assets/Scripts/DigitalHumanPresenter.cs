@@ -87,6 +87,7 @@ public class DigitalHumanPresenter : BaseDigitalHumanPresenter
         }
 
         r_CoroutineManager.StartCoroutine(LoadAllResponseData());
+        r_view.NotifyHistory();
     }
 
     private IEnumerator LoadAllResponseData()

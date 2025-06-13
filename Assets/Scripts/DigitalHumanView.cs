@@ -10,12 +10,14 @@ public class DigitalHumanView : SerializedMonoBehaviour
 
     private AudioToolBarView m_toolBarView; 
     private Action m_onInputChatUploadSuccess;
+    private ChatHistoryView m_chatHistoryView;
 
     private bool m_isRecording = false;
 
     private void Awake()
     {
         m_toolBarView = FindAnyObjectByType<AudioToolBarView>();
+        m_chatHistoryView = FindAnyObjectByType<ChatHistoryView>();
     }
 
     private void Start()
@@ -31,7 +33,7 @@ public class DigitalHumanView : SerializedMonoBehaviour
 
     public void ReceiveSignalOfUploadSuccessInputChat()
     {
-        m_onInputChatUploadSuccess?.Invoke();
+        m_onInputChatUploadSuccess.Invoke();
     }
 
     private void Update()
@@ -44,5 +46,10 @@ public class DigitalHumanView : SerializedMonoBehaviour
         {
             m_presenter.StopAndSaveInputVoiceRecording();
         }
+    }
+
+    public void NotifyHistory()
+    {
+        m_chatHistoryView.ReceiveSignal();
     }
 }
