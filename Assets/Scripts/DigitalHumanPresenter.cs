@@ -32,15 +32,6 @@ public class DigitalHumanPresenter : BaseDigitalHumanPresenter
 
     public override void UpdatePresenter()
     {
-        if (Input.GetKeyDown(KeyCode.R))
-        {
-            StartInputVoiceRecording();
-        }
-        else if (Input.GetKeyDown(KeyCode.S))
-        {
-            StopAndSaveInputVoiceRecording();
-        }
-
         UpdateBlendShape();
     }
 
@@ -49,11 +40,17 @@ public class DigitalHumanPresenter : BaseDigitalHumanPresenter
         r_CoroutineManager.StartCoroutine(LoadAllResponseData());
     }
 
-    private void StartInputVoiceRecording()
+
+    public void StartInputVoiceRecording()
     {
         if (Microphone.devices.Length == 0)
         {
             throw new Exception("No microphone detected"); 
+        }
+
+        if (isRecording)
+        {
+            return;
         }
 
         recordedClip = Microphone.Start(null, false, maxRecordTime, 44100);
@@ -61,7 +58,7 @@ public class DigitalHumanPresenter : BaseDigitalHumanPresenter
         Debug.Log("Recording started...");
     }
 
-    private void StopAndSaveInputVoiceRecording()
+    public void StopAndSaveInputVoiceRecording()
     {
         if (!isRecording) return;
 

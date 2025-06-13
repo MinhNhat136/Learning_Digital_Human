@@ -17,6 +17,7 @@ public class ChatHistoryPresenter
         r_host = host;
 
         view.onLoadHistory += LoadHistory;
+
     }
 
     public void LoadHistory()

@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using System;
 using UnityEngine.Networking;
+using System.Text;
 
 public class ChatHistoryModel
 {
@@ -27,11 +28,37 @@ public class ChatHistoryModel
             yield break;
         }
 
-        var chatData = JsonUtilityWrapper.FromJsonList<ChatEntry>(request.downloadHandler.text);
+        string jsonlText = request.downloadHandler.text;
+        string[] lines = jsonlText.Split('\n', StringSplitOptions.RemoveEmptyEntries);
+
+        StringBuilder sb = new StringBuilder();
+        for (int i = 0; i < lines.Length; i++)
+        {
+            sb.Append(lines[i]);
+            if (i < lines.Length - 1)
+                sb.Append(",");
+        }
+
+        Debug.Log(sb.ToString());
+
+        string jsonArray = sb.ToString();
+
+        List<ChatEntry> chatData;
+        try
+        {
+            chatData = JsonUtilityWrapper.FromJsonList<ChatEntry>(jsonArray);
+        }
+        catch (Exception e)
+        {
+            Debug.LogError("JSON parse error: " + e.Message);
+            onComplete?.Invoke(false);
+            yield break;
+        }
 
         if (chatData != null && chatData.Count > 0)
         {
             ChatEntries.AddRange(chatData);
+            Debug.Log("Chat entries loaded: " + chatData.Count);
             onComplete?.Invoke(true);
         }
         else
@@ -50,6 +77,7 @@ public class ChatHistoryModel
     }
 }
 
+[System.Serializable]
 public struct ChatEntry
 {
     public string timestamp;

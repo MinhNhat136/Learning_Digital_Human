@@ -34,7 +34,7 @@ public class PresentUpdater : MonoBehaviour
         }
     }
 
-    void Update()
+    void LateUpdate()
     {
         foreach (var presenter in m_presenters)
         {

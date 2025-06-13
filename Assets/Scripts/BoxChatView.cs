@@ -8,7 +8,7 @@ public class BoxChatView : MonoBehaviour
     [SerializeField] private TMP_InputField m_chatInput;
     [SerializeField] private Button m_sendButton;
     [SerializeField] private DigitalHumanView m_humanView;
-    [SerializeField] private BoxChatView m_boxChatView;
+    [SerializeField] private ChatHistoryView m_chatHistoryView;
 
     private string m_chatContent;
     private Action<string> r_onClickedSendButton;
@@ -20,7 +20,7 @@ public class BoxChatView : MonoBehaviour
         r_onClickedSendButton += presenter.OnClickedSendButton;
 
         m_humanView = FindAnyObjectByType<DigitalHumanView>(); 
-        m_boxChatView = FindAnyObjectByType<BoxChatView>();
+        m_chatHistoryView = FindAnyObjectByType<ChatHistoryView>();
     }
 
     private void OnEnable()
@@ -54,5 +54,6 @@ public class BoxChatView : MonoBehaviour
     public void NotifyToBoxAndHuman()
     {
         m_humanView.ReceiveSignalOfUploadSuccessInputChat();
+        m_chatHistoryView.ReceiveSignal();
     }
 }

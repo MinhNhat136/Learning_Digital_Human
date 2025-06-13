@@ -8,16 +8,41 @@ public class DigitalHumanView : SerializedMonoBehaviour
     public Dictionary<SkinnedMeshRenderer, string> MeshRenderers;
     private DigitalHumanPresenter m_presenter;
 
-    private Action m_onInputChatUploadSuccess; 
+    private AudioToolBarView m_toolBarView; 
+    private Action m_onInputChatUploadSuccess;
 
-    void Start()
+    private bool m_isRecording = false;
+
+    private void Awake()
     {
-        m_presenter = new DigitalHumanPresenter(this, this, FindAnyObjectByType<ServerURLView>(), GetComponent<AudioSource>());
+        m_toolBarView = FindAnyObjectByType<AudioToolBarView>();
+    }
+
+    private void Start()
+    {
+        m_presenter = new DigitalHumanPresenter(this, this, FindAnyObjectByType<ServerURLView>(), GetComponentInParent<AudioSource>());
         m_onInputChatUploadSuccess += m_presenter.OnInputChatUploadSuccess; 
+    }
+
+    private void OnEnable()
+    {
+        m_toolBarView.onClickRecordButton += () => m_isRecording = !m_isRecording; 
     }
 
     public void ReceiveSignalOfUploadSuccessInputChat()
     {
         m_onInputChatUploadSuccess?.Invoke();
+    }
+
+    private void Update()
+    {
+        if (m_isRecording)
+        {
+            m_presenter.StartInputVoiceRecording();
+        }
+        else
+        {
+            m_presenter.StopAndSaveInputVoiceRecording();
+        }
     }
 }

@@ -16,14 +16,6 @@ public class ChatHistoryView : MonoBehaviour
         ChatHistoryPresenter chatHistoryPresenter = new(this, FindAnyObjectByType<ServerURLView>(), this);
     }
 
-    public void Update()
-    {
-        if (Input.GetKeyUp(KeyCode.Delete))
-        {
-            onLoadHistory.Invoke();
-        }
-    }
-
     public void DisplayChatHistory(List<ChatEntry> entries)
     {
         ClearHistoryUI();
@@ -51,5 +43,10 @@ public class ChatHistoryView : MonoBehaviour
     {
         foreach (Transform child in chatContentParent)
             Destroy(child.gameObject);
+    }
+
+    public void ReceiveSignal()
+    {
+        onLoadHistory.Invoke();
     }
 }
